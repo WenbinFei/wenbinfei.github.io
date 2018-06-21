@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Homepage of Joost H. van der Linden"
+excerpt: "Homepage of Wenbin Fei"
 tags: 
 comments: false
 share: false
@@ -10,6 +10,6 @@ image:
   creditlink: 
 ---
 
-I am an applied mathematician at heart, interested in engineering, data science and software development. I enjoy traveling, running, a clean inbox and a minimal website.
+I am at heart a geotechnical engineer who likes studying thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multiscales. From micro scale to labratory scale, I adopt image techniques and complex theory to investigate the optimal features dominating physics. At the field scale, I combine different commerical software with home-made code to simulate the large projects.
 
-Currently, I am a PhD student in Engineering at The University of Melbourne. I study complex networks and machine learning in granular media. On the side, I organize the [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon) and I work as a data scientist for [Our Community](https://www.ourcommunity.com.au/). Previously, I completed my BSc and MSc degrees in Applied Mathematics at Delft University of Technology. I interned at IBM and Schlumberger, working in scientific computing.
+Currently, I am  pursuing a Ph.D. degree in the University of Melbourne. Previously, I holds a BS diploma of geology engineering from Chang‘an University, China (2011), and in 2014 he received an MS in Architectural and Civil Engineering from Chinese Academy of Sciences, Wuhan Institute of Rock and Soil Mechanics (IRSM). Before starting my Ph.D, I worked as a road engineer at China Railway Siyuan Survey and Design Group Co., LTD.
