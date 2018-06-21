@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Joost H. van der Linden
+title:            Wenbin Fei
 locale:           en_US
 url:              
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Joost H. van der Linden
-  avatar: joost.jpg
-  bio: "Applied Mathematician and Data Scientist."
-  email: joosthvanderlinden@gmail.com
+  name: Wenbin Fei
+  avatar: wenbin.jpg
+  bio: "Porous media simulation; Data anlysis; Geotechnical engineering; Reservoir engineering."
+  email: wenbin.fei@unimelb.edu.au
   disqus-shortname: 
   twitter: #username
-  facebook: joosthvanderlinden
+  facebook: #username
   google:
-    plus: JoostvdLinden
+    plus: #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: joosthvanderlinden
+  github: wenbin
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: joosthvanderlinden
+  linkedin: wenbinfei
   xing: #username
   instagram: #username
   lastfm: #username
@@ -55,6 +55,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+  researchgate: https://www.researchgate.net/profile/Wenbin_Fei
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
