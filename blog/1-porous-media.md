@@ -3,8 +3,8 @@ layout: page
 title: Porous media
 modified: 
 excerpt: "Porous media and its properties"
-comments: false
-share: false
+comments: true
+share: true
 image:
   feature: 
   credit: 

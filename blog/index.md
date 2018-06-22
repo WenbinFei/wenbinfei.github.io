@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Toolbox
+title: Blog
 modified: 
-excerpt: "Tools I am using for my research"
+excerpt: "My blog"
 comments: false
 share: false
 image:
@@ -11,4 +11,4 @@ image:
   creditlink: 
 ---
 
-**[Porous media](1-porous-media.md)**
+##[Porous media](1-porous-media.md)
