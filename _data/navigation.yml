@@ -3,14 +3,11 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /post1s/
+- title: Research demos
+  url: /posts/
 
 - title: Code
   url: /code/
-
-- title: Research demos
-  url: /research_demos/
 
 - title: Toolbox
   url: /toolboxs/
