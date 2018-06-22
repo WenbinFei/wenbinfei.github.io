@@ -16,25 +16,35 @@ image:
 
 
 
-My passion is to combine applied mathematics and coding in engineering and data science applications. I excel in environments with ample learning opportunities. Currently, I am lucky enough to build on all of these things in my PhD.
+My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at particle scale, then apply the foundings to engineering applications. I am working on the fluid flow and heat flow in porous media at particle scale using image processing and machine learning techniques. In order to finish my PhD project, I need to work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage.
+
+The ouptputs of my research can also be implemented for other engineering applications such as:
+
+- In geothermal engineering, this project will guide the material selection of high-quality grout which requires high thermal conductivity and low hydraulic conductivity. 
+- In nuclear waste disposal engineering, this project will help in the design of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
+- The results of this project will assist in predicting the macroscale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
+
+Furthermore, I worked as a road engineer and have the experience of designing both urban roads and highways. My work also involved the design about sponge city. Now, I also working as a testing engineer which offer me a better understanding of what parameters are required for different engineering applications and how they are achieved.
 
 **Summary**
 
-I discovered my passion for data science by working as a data analyst for a Dutch railway company, analyzing sensor and contractor data, and as data scientist for Our Community, analyzing grant and donation data. I founded and co-organize the [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon) which attracted 120 data enthusiasts in the first year, over 300 in the second year, and over 500 in our 2017 edition.
+I have the research experience on multiphysic of geomaterials at multiscale as well as the working experience of a civil engineer.
 
-- Cum laude BSc and MSc in Applied Mathematics from The Delft University of Technology.
-- Currently working towards a PhD at The University of Melbourne, applying machine learning and complex networks to granular, porous media.
-- Research internships at Schlumberger, IBM and for a small energy consultant (Alboran), where I learned how to connect, communicate and collaborate.
-- Data analytics experience at Keyrail (railway operator), working with sensor data, performance data and dashboards. 
-- Data science experience at Our Community (software company and social enterprise), performing predictive modeling, time series analysis, AB experiments, text analytics, survey analysis and dashboard design.
+- PhD Student (Infrastructure Engineering, Geotechnical Group), The University of Melbourne, Australia.
+- M.E., Civil Engineering, University of Chinese Academy of Sciences, China.
+- B.E., Geological Engineering, Chang’an University, China.
+- Testing Engineer, [Bamford Rock Testing Services](http://bamfordrocks.com.au/), Melbourne
+- Tutor, [System modelling and design](https://handbook.unimelb.edu.au/2017/subjects/cven30010), The University of Melbourne. 
+- Road Design Engineer, China Railway Siyuan Survey and Design Group Co., LTD.
 
 **Ask me about**
-- Data science for fundraising activities (research on [donations](https://www.givenow.com.au/stats) and [grants](https://www.ourcommunity.com.au/grants2017))
-- The bias trade-off for algorithmic decision making ([white paper](https://www.ourcommunity.com.au/general/general_article.jsp?articleid=7388))
-- Transitioning from student to data scientist ([talk](http://joosthvanderlinden.github.io/meetup-talk/))
-- Organising a hackathon for data science ([blog](http://joosthvanderlinden.github.io/datathon-tips/) and [video](http://joosthvanderlinden.github.io/datathon-video/))
-- Complex networks and machine learning ([journal paper](http://dx.doi.org/10.1103/PhysRevE.94.022904))
-- Numerical linear solvers and preconditioning ([journal paper](http://dx.doi.org/10.1016/j.jcp.2015.10.016) and [MSc thesis](http://repository.tudelft.nl/view/ir/uuid:47cbb291-6b1e-4572-b384-f79a8cf7e535/))
+- Image and surface mesh processing 
+- Data analysis 
+- Optimisation 
+- Numerical simulation ([journal paper](https://doi.org/10.1016/j.enggeo.2015.07.017))
+- Complex networks and machine learning 
+- Being a road (civil) engineer
+- Soil and rock tests ([journal paper](https://doi.org/10.1007/s10035-015-0551-7))
 
 ---
 Click on a skill to read more about my experience, or 
@@ -47,14 +57,14 @@ Click on a skill to read more about my experience, or
 </span>
 . 
 
-- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Python</b></div><div id="p1" class="texter"> 4 years experience. My language of choice for data analysis. Used in various research- and business-projects for data tidying, data visualization, statistical analyses, machine learning, graph analytics, information retrieval. Libraries: numpy, scipy, pandas, scikit-learn, networkx, matplotlib, seaborn, rpy2. Tools: Jupyter, Spyder, regular expressions.<br /><br /></div>
+- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Python</b></div><div id="p1" class="texter"> I start with Python for my master thesis since python is the script language of Abaqus. I adopted python to operate ABAQUS (a finite element software) and parse data of ECLIPSE (a petroleum software) so that they can transfer results sequentially. During my PhD, I need to apply Python for data analysis including  data tidying, data visualization, statistical analyses, machine learning, graph analytics, information retrieval. Libraries: numpy, scipy, pandas, scikit-learn, networkx, graphtool, matplotlib, seaborn, plotly. Tools: Jupyter, Spyder, regular expressions.<br /><br /></div>
 
-- <div onClick="openClose_skill('p2')" style="cursor:hand; cursor:pointer"><b>C++</b></div><div id="p2" class="texter"> 4 years experience. My language of choice for speed. Used in various research projects for advanced numerical (solver, preconditioning) algorithms, basic graph search algorithms, computational geometry and parallel computation. Libraries: STL, CGAL, OpenCV, OpenMP, MPI. Tools: Sublime, Visual Studio, Xcode, CMake.<br /><br /></div>
+- <div onClick="openClose_skill('p2')" style="cursor:hand; cursor:pointer"><b>C++</b></div><div id="p2" class="texter"> My language of choice for speed. Used in some research projects for a home-made finite element simulation and image processing. Libraries: OpenCV, vcglib. Tools: Sublime, Visual Studio, CMake.<br /><br /></div>
  
-- <div onClick="openClose_skill('p3')" style="cursor:hand; cursor:pointer"><b>Matlab</b></div><div id="p3" class="texter"> 7 years experience. Language of choice for quick implementations and prototyping. Used throughout education for linear algebra and numerical analysis.<br /><br /></div>
+- <div onClick="openClose_skill('p3')" style="cursor:hand; cursor:pointer"><b>Matlab</b></div><div id="p3" class="texter"> Choice for some build-in handy library, education and operating COMSOL (a finite element software).<br /><br /></div>
 
-- <div onClick="openClose_skill('p4')" style="cursor:hand; cursor:pointer"><b>VBA</b></div><div id="p4" class="texter"> 3 years experience. Language of choice for Excel integration. Used to build various data dashboards, and to perform automated reporting and data management. <br /><br /></div>
+- <div onClick="openClose_skill('p4')" style="cursor:hand; cursor:pointer"><b>VBA</b></div><div id="p4" class="texter"> Experience is limited to create simple interface for inputing data to home-made software. <br /><br /></div>
 
 - <div onClick="openClose_skill('p5')" style="cursor:hand; cursor:pointer">Other</div><div id="p5" class="texter">
-  <b>Java</b>: undergraduate subject. <b>SQL</b>: data extraction in a few projects. <b>R</b>: explored graphical models for PhD research and did some forecasting. <b>Spark</b>: online introductory courses on edX. <b>HTML</b>/<b>Jekyll</b>/<b>Markdown</b>: this website. <b>Unix</b>: bash, compilation. <b>Photoshop</b>, <b>iMovie</b>: image/video editing. <b>Comsol</b>: physics simulations during PhD. <b>Paraview</b>: physics visualizations during PhD. Simpleware <b>ScanFE</b>: finite element meshing. <br /><br /></div>
+  <b>Markdown</b>: this website. <b>Unix</b>: bash, compilation. <b>Photoshop</b>, <b>iMovie</b>: image/video editing. <b>COMSOL</b>, <b>ABAQUS</b>, <b>ECLLIPSE</b>, <b>GeoStudio</b>: physics simulations during research and work. <b>Paraview</b>: physics visualizations during PhD. <b>Fiji/ImageJ</b>: image processing. Simpleware <b>ScanFE</b>: image processing and finite element meshing. <br /><br /></div>
 ---

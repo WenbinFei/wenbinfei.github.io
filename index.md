@@ -18,4 +18,6 @@ Currently, I am  pursuing a Ph.D. degree in the University of Melbourne. Previou
 [Link to Google Scholar](https://scholar.google.com/citations?user=2ezTbggAAAAJ&hl=en)		|		
 [Link to Our Team in Melbourne University](http://pmrl.weebly.com/)
 
-![PhD resarch topic](\includegraphics[page=1]{images/wenbinfei-research-profile.jpg})
+<!--
+![PhD resarch topic](images/wenbinfei-research-profile.jpg)
+-->

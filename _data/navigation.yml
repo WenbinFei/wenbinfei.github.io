@@ -4,10 +4,19 @@
   url: /about/
 
 - title: Blog
-  url: /posts/
+  url: /blog/
 
 - title: Code
   url: /code/
 
+- title: Research demos
+  url: /research_demos/
+
+- title: Toolbox
+  url: /toolbox/
+
 - title: Publications
   url: /publications/
+
+- title: Being engineer
+  url: /being_engineer/
