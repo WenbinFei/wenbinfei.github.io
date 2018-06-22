@@ -23,17 +23,3 @@ image:
 **Conference publications**
 
 - **Fei W**, Li Q, Liu X, Wei X, Jing M, Song R, et al. "[Coupled Analysis for Interaction of Coal Mining and CO2 Geological Storage in Ordos Basin, China](https://www.onepetro.org/conference-paper/ISRM-ARMS8-2014-292)." ARMS8-2014 ISRM International Symposium-8th Asian Rock Mechanics Symposium-Rock Mechanics for Global Issues-Natural Disasters, Environment and Energy. 2014. p. 2485-94.
-
-
-<!--
-**Talks**
-- Data Science Melbourne Meetup, February 2017
-- RMIT University Analytics, Statistics and Operations Research, and Data Science Industry Talk and Networking Night, February 2017
-- The Third Statistical Mechanics of Soft Matter Meeting, November 2016
-- Infrastructure Engineering Postgraduate Conference, November 2015 (**best presentation award**)
-- Australian Academy of Science White Conference on Mining Data for Detection & Prediction of Failure in Geomaterials, July 2015
-- Engineering Mechanics Institute Conference, June 2015
-- Infrastructure Engineering Postgraduate Conference, November 2014 
-- Advances in High Performance Computing and its Applications Workshop, June 2013
-- Abingdon Technology Center Applied Mathematics Workshop, June 2013
--->
