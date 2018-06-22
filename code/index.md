@@ -10,6 +10,7 @@ image:
   creditlink: 
 ---
 
-[Particle Morphology Tool]()  
-A tool used to extract individual particles from CT images and calculate the particel size and shape of each particle.
+**Particle Morphology Tool**
+
+A tool is used to extract individual particles from CT images and calculate the particel size and shape of each particle.
 
