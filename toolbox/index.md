@@ -16,4 +16,4 @@ image:
 
 **Data Scientist Toobox**
 
-**Simulation Toolbox
+**Simulation Toolbox**
