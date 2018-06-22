@@ -4,7 +4,7 @@
   url: /about/
 
 - title: Blog
-  url: /posts/blog/
+  url: /posts/
 
 - title: Code
   url: /code/
@@ -13,7 +13,7 @@
   url: /research_demos/
 
 - title: Toolbox
-  url: /posts/
+  url: /toolbox/
 
 - title: Publications
   url: /publications/
