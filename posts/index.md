@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: Blog
+title: Research demos
 excerpt: "A List of Posts"
 ---
