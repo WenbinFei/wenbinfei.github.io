@@ -15,3 +15,10 @@ image:
 ### [ImageJ](1-imagej.md)
 #### [ImageJ](1-imagej.md)
 ##### [ImageJ](1-imagej.md)
+
+### Particle Shape Descriptors
+3D particle sphericity and roundness
+#### Particle Shape Descriptors
+3D particle sphericity and roundness
+##### Particle Shape Descriptors
+3D particle sphericity and roundness
