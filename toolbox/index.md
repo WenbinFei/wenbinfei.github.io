@@ -11,8 +11,19 @@ image:
   creditlink: 
 ---
 
-### [ImageJ](1-imagej.md)
+**[ImageJ](1-imagej.md)**
+
 Reduce ring artefacts
 
+**Meshlab**
 
+Surface mesh processing
+
+**Simpleware ScaIP**
+
+Image processing, meshing
+
+**Comsol**
+
+Finite Element Simulation
 
