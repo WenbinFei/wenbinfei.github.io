@@ -11,8 +11,5 @@ image:
   creditlink: 
 ---
 
-ImageJ is a free software that used to deal with CT images.
-- load image stacks
-- threshold
-- watershed segmentation
-- particle anaylsis
+## Porous media are ubiquitos aroud us.
+
