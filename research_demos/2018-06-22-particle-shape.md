@@ -1,10 +1,14 @@
 ---
-layout: post
-title: "Particle Shape Descriptors"
+layout: page
+title: Particle Shape Descriptors
+modified: 
 excerpt: "3D particle sphericity and roundness"
-modified: 2018-06-22
-tags: [research demos]
 comments: true
+share: true
+image:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 A tool combining ImageJ, Meshlab and home-made codes is used to calcuate paritlce shape descriptors.

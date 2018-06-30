@@ -20,7 +20,6 @@ Reduce ring artefacts
 Surface mesh processing
 
 **Simpleware ScaIP**
-
 Image processing, meshing
 
 **Comsol**
