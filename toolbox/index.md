@@ -25,6 +25,7 @@ Finite Element Simulation
 
 **Data science**
 <p align="center"> 
-<img src="../images/my-python-toolbox.jpg" width='90%'/><br>
+<img src="../images/my-python-toolbox.jpg" width='7
+0%'/><br>
 </p>
 

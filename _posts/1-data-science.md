@@ -4,7 +4,7 @@ title: "Data science"
 excerpt: "What's data science? What are the tools of a data scientist?"
 modified: 2018-06-22
 tags: [blog]
-comments: true
+comments: false
 ---
 
 ### What is data science?
