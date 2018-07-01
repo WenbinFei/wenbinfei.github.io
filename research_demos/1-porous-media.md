@@ -9,7 +9,6 @@ image:
   feature: 
   credit: 
   creditlink: 
----
 
 ### Porous media are ubiquitos aroud us
 Candy, sand, snow and rice are porous media.

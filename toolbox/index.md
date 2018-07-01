@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-**[ImageJ](1-imagej.md)**
+**[ImageJ](imagej.md)**
 
 Reduce ring artefacts
 
