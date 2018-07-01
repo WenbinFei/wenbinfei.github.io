@@ -11,18 +11,20 @@ image:
   creditlink: 
 ---
 
-**[ImageJ](imagej.md)**
-
+**[ImageJ](imagej.md)**  
 Reduce ring artefacts
 
-**Meshlab**
-
+**Meshlab**  
 Surface mesh processing
 
-**Simpleware ScaIP**
+**Simpleware ScaIP**  
 Image processing, meshing
 
-**Comsol**
-
+**Comsol**  
 Finite Element Simulation
+
+**Data science**
+<p align="center"> 
+<img src="../images/my-python-toolbox.jpg" width='90%'/><br>
+</p>
 
