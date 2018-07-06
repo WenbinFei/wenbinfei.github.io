@@ -10,11 +10,14 @@ image:
   credit: 
   creditlink: 
 ---
-
 # Main heading
-Use the hash key to make headings.
+`# Main heading`
 
+Use the hash key to make headings.
+  
 ## Sub heading
+`## Sub heading`
+
 To start a paragraph.
 
 Paragraphs are split by a blank line.
@@ -22,33 +25,68 @@ Text will be on the same line without space.
 Leave two spaces at the end of the previous generates a line break.
 
 ## Formatting
-Text attributes _italic_, **bold**, 'monospace'.
+**Text attributes**
+
+`_italic_, **bold**, 'monospace'`  
+_italic_, **bold**, 'monospace'
+
+**Quotes**
+
+```
+> This is a quote
+> Quotes start with a greater than symbol and are formatted specially (usually indented).
+```
 
 > This is a quote
 > Quotes start with a greater than symbol and are formatted specially (usually indented).
 
-Inline `code`.
+**Code**
+
+Inline code  
+
+`code`.
 
 Highlight syntax for Python code:
+
 ```python
 # we can also print comments
 if you see me around after OpenRes then:
 	print(“hello”)
 ```
 
-Bullet list:
+**List**
+
+Bullet list:  
+```  
+  * apples
+  * oranges
+  * pears
+  ```
 
   * apples
   * oranges
   * pears
 
-Numbered list:
+Numbered list:  
+```  
+  1. wash
+  2. rinse
+  3. repeat
+  ```
 
   1. wash
   2. rinse
   3. repeat
 
 ## Tables
+```
+| Tables        | Are           | Cool         |
+| ------------- |:-------------:| -----:       |
+| 3 dashes      | separat       | header       |
+| outer pipes   | are           | optional     |
+| *Markdown*    | _is_          | 'avaliable'  |
+```
+
 | Tables        | Are           | Cool         |
 | ------------- |:-------------:| -----:       |
 | 3 dashes      | separat       | header       |
@@ -61,18 +99,33 @@ The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
 ## Links, images and video
+`[Github link](https://github.com/)`
 [Github link](https://github.com/).
 
 Inline style of image  
-Github log  
+Github log   
+`![Github](../images/github-mark.png)`  
 ![Github](../images/github-mark.png)
 
-To use reference style,
+To use reference style,  
+```
+![reference-style][logo]
+
+[logo]: ../images/github-mark.png
+```
+
 ![reference-style][logo]
 
 [logo]: ../images/github-mark.png
 
 To change the image size and centralize the figure and caption, use html code:  
+
+```
+<p align="center"> 
+<img src="../images/github-mark.png" width='50%'/><br>
+<b>Fig.1 Github logo</b>
+</p>
+```
 
 <p align="center"> 
 <img src="../images/github-mark.png" width='50%'/><br>
@@ -87,7 +140,7 @@ This video summarises the concept of the Melbourne Datathon, showing footage fro
 -->
 
 ## Emojis
-Here is the GitHub icon :octocat:  
+Here is the GitHub icon `:octocat:` :octocat:  
 To see a list of supported images, check out www.emoji-cheat-sheet.com
 
 ## Note

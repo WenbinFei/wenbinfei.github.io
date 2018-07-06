@@ -10,8 +10,6 @@ image:
   credit: 
   creditlink: 
 ---
-# Sublime text skills
-
 ## Proofreading
 [**Language tool**](https://www.languagetool.org/) is an open source proofreading software for Engilish, French, German and more than 20 other languages.
 
