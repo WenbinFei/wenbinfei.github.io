@@ -33,8 +33,8 @@ Click on a classification to read more about the tools, or
 <span style="cursor:hand; cursor:pointer" onClick="closeAll()">
   <u> close all</u>
 </span>
-. 
+.Click the name of a tool to read relative tutorials.
 
 - <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Editors</b></div><div id="p1" class="texter"> 
-Markdown: a popular language with plain text formatting syntax and easy to be converted to html. Click <a href="markdown.md">here</a> to read a simple tutorial.
+<a href="markdown.md">Markdown</a>: a popular language with plain text formatting syntax and easy to be converted to html.
 <br /><br /></div>
