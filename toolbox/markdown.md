@@ -30,6 +30,18 @@ Leave two spaces at the end of the previous generates a line break.
 `_italic_, **bold**, 'monospace'`  
 _italic_, **bold**, 'monospace'
 
+**superscript and subscript**
+
+```
+This is some <sup>superscript</sup> text.
+
+This is some <sub>subscript</sub> text.
+```
+
+This is some <sup>superscript</sup> text.
+
+This is some <sub>subscript</sub> text.
+
 **Quotes**
 
 ```

@@ -16,19 +16,19 @@ image:
 
 
 
-My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at particle scale, then apply the foundings to engineering applications. I am working on the fluid flow and heat flow in porous media at particle scale using image processing and machine learning techniques. In order to finish my PhD project, I need to work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage.
+My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. Now, I am working on the fluid flow and heat flow in porous media at particle scale and laboratory scale using image processing and machine learning techniques. In order to finish my [PhD project](../research_demos/0-phd-project.md), I need to work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at filed scale.
 
-The ouptputs of my research can also be implemented for other engineering applications such as:
+The outputs of my research can also be implemented for other engineering applications such as:
 
 - In geothermal engineering, this project will guide the material selection of high-quality grout which requires high thermal conductivity and low hydraulic conductivity. 
 - In nuclear waste disposal engineering, this project will help in the design of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
-- The results of this project will assist in predicting the macroscale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
+- The results of this project will assist in predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
 
 Furthermore, I worked as a road engineer and have the experience of designing both urban roads and highways. My work also involved the design about sponge city. Now, I also working as a testing engineer which offer me a better understanding of what parameters are required for different engineering applications and how they are achieved.
 
 **Summary**
 
-I have the research experience on multiphysic of geomaterials at multiscale as well as the working experience of a civil engineer.
+I have the research experience on multi-physic of geomaterials at multi-scale as well as the working experience of a civil engineer.
 
 - PhD Student (Infrastructure Engineering, Geotechnical Group), The University of Melbourne, Australia.
 - M.E., Civil Engineering, University of Chinese Academy of Sciences, China.
@@ -40,7 +40,7 @@ I have the research experience on multiphysic of geomaterials at multiscale as w
 **Ask me about**
 - Image and surface mesh processing 
 - Data analysis 
-- Optimisation 
+- Optimization 
 - Numerical simulation ([journal paper](https://doi.org/10.1016/j.enggeo.2015.07.017))
 - Complex networks and machine learning 
 - Being a road (civil) engineer

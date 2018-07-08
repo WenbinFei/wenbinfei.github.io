@@ -10,7 +10,15 @@ image:
   credit: 
   creditlink: 
 ---
-**[Porous media](1-porous-media.md")**
+**[PhD project](0-phd-project.md)**  
+Particle scale study on fluid flow and heat flow in granular materials
 
-**[Particle shape](2-particle-shape.md)**
+**[Porous media](1-porous-media.md)**
+
+**[Particle shape](2-particle-shape.md)**  
+Sphericity and roundness of every single particle in soil or rock samples
+
+**[THMC coupling analysis at field scale](3-AEEA-coupler.md)**  
+AEEA coupler linking ABAQUA and ECLIPSE
+
 

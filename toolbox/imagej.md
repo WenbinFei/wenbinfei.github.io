@@ -12,7 +12,16 @@ image:
 ---
 
 ImageJ is a free software that used to deal with CT images.
-- load image stacks
-- threshold
-- watershed segmentation
-- particle anaylsis
+- Load image stacks
+- Mitigate artificial effects
+<!-- Different to do this, refer to articles
+-->
+- Threshold
+<!-- How to determine the threshold, the otsu method.
+-->
+- Watershed segmentation
+<!-- Different methods in watershed, watershed definition, Morpholibj
+-->
+- Particle analysis
+<!-- 2D,3D, different plugin: particle analyze, particles8_plus, biovexxol, morpholibj...
+-->
