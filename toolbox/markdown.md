@@ -140,7 +140,7 @@ To change the image size and centralize the figure and caption, use html code:
 ```
 
 <p align="center"> 
-<img src="https://github.com/WenbinFei/wenbinfei.github.io/blob/master/images/github-mark.png" width='50%'/><br>
+<img src="/images/github-mark.png" width='50%'/><br>
 <b>Fig.1 Github logo</b>
 </p>
 
