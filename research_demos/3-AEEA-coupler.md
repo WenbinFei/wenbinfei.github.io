@@ -20,6 +20,11 @@ As shown in Fig. 1, first, a thermo-hydro-chemical (THC) coupling process for mu
 	</p>
 </body>
 
+<figure align="center">	
+	<img src="../images/Ottawa-sand-particle-shape.png" width='60%'/><br>
+	<figcaption><b>Fig.1 Particle shape of Ottawa sand</b></figcaption>	
+</figure>
+
 The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphase flow is sequentially and explicitly considered between ABAQUS and ECLIPSE through the developed AEEA Coupler (Fei, 2014). The steps of the coupling analysis are illustrated in Fig. 2. First, a THC coupling analysis is conducted between t<sub>k</sub> and t<sub>k + 1</sub> in ECLIPSE, and its results are passed to ABAQUS in t<sub>k</sub>. Next, a THM coupling analysis is carried out between t<sub>k</sub> and t<sub>k + 1</sub> in ABAQUS, and the results of ABAQUS are passed back to ECLIPSE in t<sub>k + 1</sub> to perform the simulation for the next time step.
 
 <body>

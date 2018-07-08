@@ -15,6 +15,26 @@ A tool has been developed used to calculate paritlce shape descriptors.
 
 The red points in the following figure show the particle shape of each particle in a Ottawa sand assembly.
 
+<figure align="center"> 
+<img src="/images/Ottawa-sand-particle-shape.png" width='60%'/><br>
+<b>Fig.1 Particle shape of Ottawa sand</b>
+</figure> 
+
+<figure>
+	<a href="../images/Ottawa-sand-particle-shape.png"><img src="../images/Ottawa-sand-particle-shape.png"></a>
+	<figcaption>Melbourne Datathon 2015 - Hackday.</figcaption>
+</figure>
+
+<figure>
+	<a href="../images/Ottawa-sand-particle-shape.png"><img src="../images/Ottawa-sand-particle-shape.png"></a>
+	<figcaption>Fig.1 Particle shape of Ottawa sand</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Ottawa-sand-particle-shape.png"><img src="/images/Ottawa-sand-particle-shape.png"></a>
+	<figcaption>Fig.1 Particle shape of Ottawa sand</figcaption>
+</figure>
+
 <figure align="center">	
 	<img src="../images/Ottawa-sand-particle-shape.png" width='60%'/><br>
 	<figcaption><b>Fig.1 Particle shape of Ottawa sand</b></figcaption>	
