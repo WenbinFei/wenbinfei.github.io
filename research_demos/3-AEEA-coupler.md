@@ -3,8 +3,8 @@ layout: page
 title: THMC coupling analysis at field scale
 modified: 
 excerpt: "AEEA Coupler"
-comments: true
-share: true
+comments: false
+share: false
 image:
   feature: 
   credit: 
