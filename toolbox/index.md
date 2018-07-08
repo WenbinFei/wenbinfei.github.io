@@ -10,7 +10,9 @@ image:
   credit: 
   creditlink: 
 ---
+<!--
 **Click the hyper-link in the following figure to find more details.**
+-->
 
 <body>
     <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" />
