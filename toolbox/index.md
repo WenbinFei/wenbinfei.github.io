@@ -23,3 +23,18 @@ image:
     <area shape="rect" coords="395,303,704,342" href="https://wenbinfei.github.io/data-science/" title="Data_science" alt="Data_science" />
     <area shape="rect" coords="1383,214,1524,247" href="https://wenbinfei.github.io/toolbox/imagej/" title="Fiji" alt="Fiji" />
 </map>
+
+
+Click on a classification to read more about the tools, or 
+<span style="cursor:hand; cursor:pointer" onClick="openAll()">
+  <u> show all </u>
+</span> 
+/
+<span style="cursor:hand; cursor:pointer" onClick="closeAll()">
+  <u> close all</u>
+</span>
+. 
+
+- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Editors</b></div><div id="p1" class="texter"> 
+Markdown: a popular language with plain text formatting syntax and easy to be converted to html. Click <a href="markdown.md">here</a> to read a simple tutorial.
+<br /><br /></div>
