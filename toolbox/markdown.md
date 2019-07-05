@@ -18,17 +18,18 @@ Use the hash key to make headings.
 ## Sub heading
 `## Sub heading`
 
-To start a paragraph.
-
+To start a paragraph.  
 Paragraphs are split by a blank line.
+
+To start a new line.  
 Text will be on the same line without space.  
 Leave two spaces at the end of the previous generates a line break.
 
 ## Formatting
 **Text attributes**
 
-`_italic_, **bold**, 'monospace'`  
-_italic_, **bold**, 'monospace'
+`_italic_, **bold**, 'monospace'`, '__underline__'
+_italic_, **bold**, 'monospace', __underline__
 
 **superscript and subscript**
 
