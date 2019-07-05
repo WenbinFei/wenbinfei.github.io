@@ -10,6 +10,9 @@ image:
   credit: 
   creditlink: 
 ---
+**[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks](4-rigidity.md)**  
+Particle shape and local clustering coefficient are good to predict thermal conductivity of granular materials under loading.
+
 **[PhD project](0-phd-project.md)**  
 Particle scale study on fluid flow and heat flow in granular materials
 

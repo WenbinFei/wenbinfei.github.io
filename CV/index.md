@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wenbin FEi
+title: Wenbin Fei's CV
 tags: [wenbin, CV]
 modified: 
 comments: false
@@ -11,9 +11,9 @@ image:
   creditlink: 
 ---
 
-[//]: <> (Ethnography of Data: learning about the social context behind our data. Include qualitative insights and treat systems less like an “experimental black box”.)
-
-
-
-![''](WenbinFei_CV.pdf){width=75%}.
+<object data="WenbinFei_CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="WenbinFei_CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="WenbinFei_CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ---

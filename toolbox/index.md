@@ -25,18 +25,10 @@ image:
 </map>
 
 
-Click on a classification to read more about the tools, or 
-<span style="cursor:hand; cursor:pointer" onClick="openAll()">
-  <u> show all </u>
-</span> 
-/
-<span style="cursor:hand; cursor:pointer" onClick="closeAll()">
-  <u> close all</u>
-</span>
-.Click the name of a tool to read relative tutorials.
+## Editors
+**['Markdown'](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
+**['Sublime Text'](sublime-text.md.md)**: A sophisticated text editor for code, markup and prose.
 
-- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Editors</b></div><div id="p1" class="texter"> 
-<a href="../toolbox/markdown.md">Markdown</a>: a popular language with plain text formatting syntax and easy to be converted to html.
-
-<a href="../toolbox/sublime-text.md">Sublime Text</a>: A sophisticated text editor for code, markup and prose.
+## Image Processing
+**['ImageJ'](imagej.md)**: ImageJ is a free software that used to deal with CT images.
 
