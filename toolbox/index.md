@@ -36,8 +36,7 @@ Click on a classification to read more about the tools, or
 .Click the name of a tool to read relative tutorials.
 
 - <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Editors</b></div><div id="p1" class="texter"> 
-<a href="markdown.md">Markdown</a>: a popular language with plain text formatting syntax and easy to be converted to html.
-<br /><br /></div>
+<a href="../toolbox/markdown.md">Markdown</a>: a popular language with plain text formatting syntax and easy to be converted to html.
 
-<a href="sublime-text.md">Sublime Text</a>: A sophisticated text editor for code, markup and prose.
-<br /><br /></div>
+<a href="../toolbox/sublime-text.md">Sublime Text</a>: A sophisticated text editor for code, markup and prose.
+

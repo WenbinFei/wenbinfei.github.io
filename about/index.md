@@ -16,7 +16,7 @@ image:
 
 
 
-My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. Now, I am working on the fluid flow and heat flow in porous media at particle scale and laboratory scale using image processing and machine learning techniques. In order to finish my [PhD project](../research_demos/0-phd-project.md), I need to work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at filed scale.
+My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. Now, I am working on the fluid flow and heat transfer in porous media at particle scale and laboratory scale using image processing and machine learning techniques. In order to finish my [PhD project](../research_demos/0-phd-project.md), I work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at filed scale.
 
 The outputs of my research can also be implemented for other engineering applications such as:
 
