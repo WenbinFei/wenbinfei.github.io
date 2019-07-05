@@ -10,6 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
+Feel free to contact me and look forward to working with you.
 
 <object data="WenbinFei_CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="WenbinFei_CV.pdf">
