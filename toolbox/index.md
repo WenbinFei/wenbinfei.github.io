@@ -38,7 +38,7 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 #### Editors
 - **[Markdown](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
 
-- **[Sublime Text](sublime-text.md.md)**: A sophisticated text editor for code, markup and prose.
+- **[Sublime Text](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
 
 #### Image Processing
 **[ImageJ](imagej.md)**: ImageJ is a free software that used to deal with CT images.
