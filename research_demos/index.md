@@ -17,7 +17,7 @@ Particle shape and local clustering coefficient are good to predict thermal cond
 Particle scale study on fluid flow and heat flow in granular materials
 
 **[Porous media](1-porous-media.md)**
-Porous media is ubiquitous such as sponge, candy, sand, snow, bone...
+Porous media is ubiquitous aroud us. E.g. sponge, candy, sand, snow, bone...
 
 **[Particle shape](2-particle-shape.md)**  
 Sphericity and roundness of every single particle in soil or rock samples
