@@ -10,6 +10,9 @@ image:
   credit: 
   creditlink: 
 ---
+<!--
+**Click the hyper-link in the following figure to find more details.**
+-->
 
 ### Pore/particle scale modeling platform
 
@@ -21,10 +24,6 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 
 ### Data scientists' toolbox
-
-<!--
-**Click the hyper-link in the following figure to find more details.**
--->
 
 <body>
     <img src="/images/psmp.jpg" width='60%'/><br>
