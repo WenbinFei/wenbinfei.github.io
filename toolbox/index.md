@@ -27,7 +27,7 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 -->
 
 <body>
-    <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" />
+    <img src="/images/psmp.jpg" width='60%'/><br>
 </body>
 
 <map name="Toolbox">
@@ -39,6 +39,7 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 #### Editors
 **['Markdown'](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
+
 **['Sublime Text'](sublime-text.md.md)**: A sophisticated text editor for code, markup and prose.
 
 #### Image Processing
