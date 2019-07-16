@@ -12,7 +12,8 @@ image:
 ---
 
 **Journal papers**
-
+- **Fei W**, Narsilio G, Disfani M, Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder technology, 2019 (conditionally accepted)
+- **Fei W**, Narsilio G, van der linden J, Disfani M, Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer, 2019 (conditionally accepted) 
 - **Fei W**, Li Q, Wei X, Song R, Jing M, Li X. "[Interaction analysis for CO2 geological storage and underground coal mining in Ordos Basin, China. Engineering Geology](https://doi.org/10.1016/j.enggeo.2015.07.017)." 2015;196:194-209.
 - Yang Y, **Fei W**, Yu H-S, Ooi J, Rotter M. "[Experimental study of anisotropy and non- coaxiality of granular solids](https://doi.org/10.1007/s10035-015-0551-7)." Granular Matter. 2015;17:189-96.
 - Li Q, **Fei W**, Liu X, Wei X, Jing M, Li X. "[Challenging combination of CO2 geological storage and coal mining in the Ordos basin, China](http://onlinelibrary.wiley.com/doi/10.1002/ghg.1408/full).“ Greenhouse Gases: Science and Technology. 2014;4:452-67.
