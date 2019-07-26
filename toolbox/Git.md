@@ -13,17 +13,17 @@ image:
 
 **Git is a distributed version control system for tracking changes in source code when developing software.**
 
-#### Git basic command  
+#### Git basic command
 `git --version`
 
-##### Set up  
+##### Set up
 `git config --global user.name "XXX"`
 `git config --global user.email "XXX"`
 
-##### Initialization  
+##### Initialization
 `git init`
 
-##### Stage  
+##### Stage
 `git status`
 
 `git add YOUR CODE`
@@ -31,16 +31,16 @@ image:
 To add all change using
 `git add .`
 
-##### Commit  
+##### Commit
 `git commit -m "YOUR MESSAGE"`
 
-##### Retrive   
+##### Retrive
  `git checkout -- .`
 
-##### Pull  
+##### Pull
 git clone https://
 
-##### A new project  
+##### A new project
 `git remote add origin <server>`
 
 change origin
@@ -54,7 +54,7 @@ git remote -v    //double check`
 git push -f origin master, force to push.`
 
 
-#### Efficient trick  
+#### Efficient trick
 - Push with comments  
 Create a file named 'git_commit_and_push.sh', and write the following inside:  
 ```
@@ -80,5 +80,5 @@ git commit -m "debugging"
 git push -u origin master
 ```
 
-#### More commands can refer to:  
+#### More commands can refer to:
 http://rogerdudler.github.io/git-guide/
