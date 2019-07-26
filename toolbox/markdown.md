@@ -28,7 +28,7 @@ Leave two spaces at the end of the previous generates a line break.
 ## Formatting
 **Text attributes**
 
-`_italic_, **bold**, 'monospace'`, '__underline__'
+`_italic_, **bold**, 'monospace', '__underline__'`
 _italic_, **bold**, 'monospace', __underline__
 
 **superscript and subscript**

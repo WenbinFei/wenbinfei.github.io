@@ -36,13 +36,13 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 
 #### Editors
-- **[Markdown](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
+- **[__Markdown__](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
 
-- **[Sublime Text](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
+- **[__Sublime Text__](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
 
 #### Image Processing
-- **[ImageJ](imagej.md)**: ImageJ is a free software that used to deal with CT images.
+- **[__ImageJ__](imagej.md)**: ImageJ is a free software that used to deal with CT images.
 
 
 #### Others
-- **[Git](Git.md)**: Git is a distributed version control system for tracking changes in source code when developing software.
+- **[__Git__](Git.md)**: Git is a distributed version control system for tracking changes in source code when developing software.
