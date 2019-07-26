@@ -16,6 +16,6 @@ A framework has been developed used to calculate three-dimensional sphericity an
 After that, the impact of particle shape on effective thermal conductivity can be quantified.
 
 <figure align="center"> 
-<img src="/images/particle-shape-framework.png" width='60%'/><br>
+<img src="/images/particle-shape-framework.png" width='100%'/><br>
 <b>Fig.1 Particle shape of Ottawa sand</b>
 </figure> 
