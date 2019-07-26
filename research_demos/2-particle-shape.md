@@ -17,5 +17,5 @@ After that, the impact of particle shape on effective thermal conductivity can b
 
 <figure align="center"> 
 <img src="/images/particle-shape-framework.png" width='100%'/><br>
-<b>Fig.1 Particle shape of Ottawa sand</b>
+<b>Fig.1 Framework of quantifying the impact of particle shape on effective thermal conductivity</b>
 </figure> 
