@@ -11,11 +11,11 @@ image:
   creditlink: 
 ---
 
-A tool has been developed used to calculate paritlce shape descriptors.
+A framework has been developed used to calculate three-dimensional sphericity and roundness.
 
-The red points in the following figure show the particle shape of each particle in a Ottawa sand assembly.
+After that, the impact of particle shape on effective thermal conductivity can be quantified.
 
 <figure align="center"> 
-<img src="/images/Ottawa-sand-particle-shape.png" width='60%'/><br>
+<img src="/images/particle-shape-framework.png" width='60%'/><br>
 <b>Fig.1 Particle shape of Ottawa sand</b>
 </figure> 
