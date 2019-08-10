@@ -36,16 +36,16 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 
 #### Editors
-- <ins>**[Markdown](markdown.md)**</ins>: A popular language with plain text formatting syntax and easy to be converted to html.
+- **[Markdown](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
 
-- <ins>**[Sublime Text](sublime-text.md)**</ins>: A sophisticated text editor for code, markup and prose.
+- **[Sublime Text](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
 
 #### Data science toolbox
-- <ins>**[Seaborn & Matplotlib](Seaborn-matplotlib.md)**</ins>: Python libraries to visualize your data.
+- **[Seaborn & Matplotlib](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
 
 #### Image Processing
-- <ins>**[ImageJ](imagej.md)**</ins>: ImageJ is a free software that used to deal with CT images.
+- **[ImageJ](imagej.md)**: ImageJ is a free software that used to deal with CT images.
 
 
 #### Others
-- <ins>**[Git](Git.md)**</ins>: Git is a distributed version control system for tracking changes in source code when developing software.
+- **[Git](Git.md)**: Git is a distributed version control system for tracking changes in source code when developing software.
