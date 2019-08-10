@@ -25,7 +25,7 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 ### My toolbox
 
 <body>
-    <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" />
+    <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" /><br>
 </body>
 
 <map name="Toolbox">
@@ -45,7 +45,6 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 #### Image Processing
 - **[ImageJ](imagej.md)**: ImageJ is a free software that used to deal with CT images.
-
 
 #### Others
 - **[Git](Git.md)**: Git is a distributed version control system for tracking changes in source code when developing software.
