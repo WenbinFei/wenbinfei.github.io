@@ -31,6 +31,8 @@ Leave two spaces at the end of the previous generates a line break.
 `_italic_, **bold**, 'monospace', '__underline__'`
 _italic_, **bold**, 'monospace', __underline__
 
+The __underline__ is not supported in HTML5, use ``<ins>underline<ins>`` to generate <ins>underline<ins>.
+
 **superscript and subscript**
 
 ```
