@@ -40,6 +40,9 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
 
 - **[__Sublime Text__](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
 
+#### Data science toolbox
+- **[__Seaborn & Matplotlib__](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
+
 #### Image Processing
 - **[__ImageJ__](imagej.md)**: ImageJ is a free software that used to deal with CT images.
 
