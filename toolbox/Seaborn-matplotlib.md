@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seaborn & Matplotlib
+title: Seaborn & Matplotlib Q & A
 modified: 
 excerpt: "Python visualization"
 comments: false
@@ -15,12 +15,6 @@ Click to visit the [Seaborn](https://seaborn.pydata.org/#) and [Matplotlib](http
 
 The manuscript of journal paper usually has a page width of 16 cm. As the final article has two columns, the figure for one column will have a width of 8 cm while the figure accrossing two columns will have a width of 16 cm.
 
-
-## Tutorial 1: 
-
-
-
-## Q & A
 **Set font size and figure style**
 ```
 from matplotlib import rc
@@ -41,11 +35,11 @@ sns.set_style("ticks", {'axes.edgecolor': 'k',
 rcParams.update({'figure.autolayout': False})
 ```
 
-**Change font size**
+**Change font size**  
 ``sns.set(font_scale=2)``
 
 
-**Change tick label size and direction**
+**Change tick label size and direction**  
 ``plt.xticks(fontsize=12, rotation=0)``
 
 **Set figure size**
@@ -95,10 +89,15 @@ Example:
  ```
  The first command will put the center of the bounding box at axes coordinates 0.5,0.5. The second will put the center left edge of the bounding box at the same coordinates (i.e. shift the legend to the right). Finally, the third option will put the center right edge of the bounding box at the coordinates (i.e. shift the legend to the left).
 
- **Save figure**
- ```
- fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', format='eps', bbox_inches='tight', dpi=500)
+**Save figure**
+```
+fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', format='eps', bbox_inches='tight', dpi=500)
 fig.savefig(fig_dir + 'thermal-conductivity-validation.png', format='png', bbox_inches='tight', dpi=500)
 ```
 Sometimes, these sentence should be in the same cell of your plot when drawing graphs in Jupyter.
 
+**Used scientific format in the axis**
+```
+ax.ticklabel_format (axis='x', style='sci',scilimits=(0,0), useOffset=False, useMathText=True)
+Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
+```
