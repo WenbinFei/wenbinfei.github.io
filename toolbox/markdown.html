@@ -3,7 +3,7 @@
 <meta name="layout" content="page">
 <meta name="image" content="">
 <meta name="creditlink" content="">
-<meta name="excerpt" content="&quot;Python visualization&quot;">
+<meta name="excerpt" content="&quot;markdown cheatsheet&quot;">
 <meta name="comments" content="false">
 <meta name="feature" content="">
 <meta name="share" content="false"><style>body {
@@ -1063,25 +1063,140 @@ body .markdown-body
 .codehilite .vi{color:teal}
 .codehilite .il{color:#009999}
 .codehilite .gc{color:#999;background-color:#EAF2F5}
-</style><title>Seaborn &amp; Matplotlib</title></head><body><article class="markdown-body"><p>Click to visit the <a href="https://seaborn.pydata.org/#">Seaborn</a> and <a href="https://matplotlib.org/index.html">Matplotlib</a> websites.</p>
-<p>The manuscript of journal paper usually has a page width of 16 cm. As the final article has two columns, the figure for one column will have a width of 8 cm while the figure accrossing two columns will have a width of 16 cm.</p>
-<h2 id="tutorial-1">Tutorial 1:<a class="headerlink" href="#tutorial-1" title="Permanent link"></a></h2>
-<h2 id="q-a">Q &amp; A<a class="headerlink" href="#q-a" title="Permanent link"></a></h2>
-<p><strong>Change font size</strong>
-<div class="codehilite"><pre>from matplotlib import rc
-rc={&#39;font.size&#39;:10, 
-    &#39;axes.labelsize&#39;: 10,   
-    &#39;legend.fontsize&#39;: 10, 
-    &#39;axes.titlesize&#39;: 10, 
-    &#39;xtick.labelsize&#39;: 10, 
-    &#39;ytick.labelsize&#39;: 10}
-sns.set(font = &#39;Arial&#39;, rc=rc)
-</pre></div></p>
-<p><strong>Set figure size</strong>
-<div class="codehilite"><pre>fig, ax = plt.subplots(1,1,figsize=(6,4))
+</style><title>Markdown</title></head><body><article class="markdown-body"><h1 id="main-heading">Main heading<a class="headerlink" href="#main-heading" title="Permanent link"></a></h1>
+<p><code># Main heading</code></p>
+<p>Use the hash key to make headings.</p>
+<h2 id="sub-heading">Sub heading<a class="headerlink" href="#sub-heading" title="Permanent link"></a></h2>
+<p><code>## Sub heading</code></p>
+<p>To start a paragraph.<br />
+Paragraphs are split by a blank line.</p>
+<p>To start a new line.<br />
+Text will be on the same line without space.<br />
+Leave two spaces at the end of the previous generates a line break.</p>
+<h2 id="formatting">Formatting<a class="headerlink" href="#formatting" title="Permanent link"></a></h2>
+<p><strong>Text attributes</strong></p>
+<p><code>_italic_, **bold**, 'monospace', '__underline__'</code>
+<em>italic</em>, <strong>bold</strong>, &lsquo;monospace&rsquo;, <strong>underline</strong></p>
+<p>The <strong>underline</strong> is not supported in HTML5, use <code>&lt;ins&gt;underline&lt;ins&gt;</code> to generate <ins>underline<ins>.</p>
+<p><strong>superscript and subscript</strong></p>
+<div class="codehilite"><pre>This is some &lt;sup&gt;superscript&lt;/sup&gt; text.
+
+This is some &lt;sub&gt;subscript&lt;/sub&gt; text.
 </pre></div>
-Here, the unit of figure size is inches. So the 
-16*16 cm   = 6.3*6.3 inch,<br />
-16*10.7 cm = s6.3*4.2 inch (aspect ratio is 6:4),   <br />
-8*8 cm     = 3.15*3.15 inch,<br />
-8*5.3 cm   = 3.15*2.1 inch.</p></article></body></html>
+
+<p>This is some <sup>superscript</sup> text.</p>
+<p>This is some <sub>subscript</sub> text.</p>
+<p><strong>Quotes</strong></p>
+<div class="codehilite"><pre>&gt; This is a quote
+&gt; Quotes start with a greater than symbol and are formatted specially (usually indented).
+</pre></div>
+
+<blockquote>
+<p>This is a quote
+Quotes start with a greater than symbol and are formatted specially (usually indented).</p>
+</blockquote>
+<p><strong>Code</strong></p>
+<p>Inline code  </p>
+<p><code>code</code>.</p>
+<p>Highlight syntax for Python code:</p>
+<div class="codehilite"><pre><span class="c1"># we can also print comments</span>
+<span class="k">if</span> <span class="n">you</span> <span class="n">see</span> <span class="n">me</span> <span class="n">around</span> <span class="n">after</span> <span class="n">OpenRes</span> <span class="n">then</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="err">“</span><span class="n">hello</span><span class="err">”</span><span class="p">)</span>
+</pre></div>
+
+<p><strong>List</strong></p>
+<p>Bullet list:<br />
+<div class="codehilite"><pre>  * apples
+  * oranges
+  * pears
+  ```
+
+  * apples
+  * oranges
+  * pears
+
+Numbered list:  
+</pre></div>
+  1. wash
+  2. rinse
+  3. repeat
+  ```</p>
+<ol>
+<li>wash</li>
+<li>rinse</li>
+<li>repeat</li>
+</ol>
+<h2 id="tables">Tables<a class="headerlink" href="#tables" title="Permanent link"></a></h2>
+<div class="codehilite"><pre>| Tables        | Are           | Cool         |
+| ------------- |:-------------:| -----:       |
+| 3 dashes      | separat       | header       |
+| outer pipes   | are           | optional     |
+| *Markdown*    | _is_          | &#39;avaliable&#39;  |
+</pre></div>
+
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th align="center">Are</th>
+<th align="right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 dashes</td>
+<td align="center">separat</td>
+<td align="right">header</td>
+</tr>
+<tr>
+<td>outer pipes</td>
+<td align="center">are</td>
+<td align="right">optional</td>
+</tr>
+<tr>
+<td><em>Markdown</em></td>
+<td align="center"><em>is</em></td>
+<td align="right">&lsquo;avaliable&rsquo;</td>
+</tr>
+</tbody>
+</table>
+<p>There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don&rsquo;t need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.</p>
+<h2 id="links-images-and-video">Links, images and video<a class="headerlink" href="#links-images-and-video" title="Permanent link"></a></h2>
+<p><code>[Github link](https://github.com/)</code>
+<a href="https://github.com/">Github link</a>.</p>
+<p>Inline style of image<br />
+Github log <br />
+<code>![Github](../images/github-mark.png)</code><br />
+<img alt="Github" src="///D://Git-Projects/wenbinfei.github.io/images/github-mark.png" /></p>
+<p>To use reference style,<br />
+<div class="codehilite"><pre>![reference-style][logo]
+
+[logo]: ../images/github-mark.png
+</pre></div></p>
+<p><img alt="reference-style" src="///D://Git-Projects/wenbinfei.github.io/images/github-mark.png" /></p>
+<p>To change the image size and centralize the figure and caption, use html code:  </p>
+<div class="codehilite"><pre>&lt;p align=&quot;center&quot;&gt; 
+&lt;img src=&quot;../images/github-mark.png&quot; width=&#39;50%&#39;/&gt;&lt;br&gt;
+&lt;b&gt;Fig.1 Github logo&lt;/b&gt;
+&lt;/p&gt;
+</pre></div>
+
+<p align="center"> 
+<img src="/images/github-mark.png" width='50%'/><br>
+<b>Fig.1 Github logo</b>
+</p>
+
+<!--
+To add video using an image with a link  
+This video summarises the concept of the Melbourne Datathon, showing footage from the 2017 edition.
+<iframe src="https://player.vimeo.com/video/219267678" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/219267678">Melbourne Datathon 2017</a> by <a href="https://vimeo.com/user11079755">Rachael Imam</a>.
+-->
+
+<h2 id="emojis">Emojis<a class="headerlink" href="#emojis" title="Permanent link"></a></h2>
+<p>Here is the GitHub icon <code>:octocat:</code> <img align="absmiddle" alt=":octocat:" class="gemoji" height="20px" src="https://github.githubassets.com/images/icons/emoji/octocat.png" title=":octocat:" width="20px" /><br />
+To see a list of supported images, check out <a href="http://www.emoji-cheat-sheet.com">www.emoji-cheat-sheet.com</a></p>
+<h2 id="note">Note<a class="headerlink" href="#note" title="Permanent link"></a></h2>
+<p>To download the original <em>.md</em> file, check out the file <em>toolbox/markdown.md</em> in repository <a href="https://github.com/WenbinFei/wenbinfei.github.io">https://github.com/WenbinFei/wenbinfei.github.io</a></p></article></body></html>

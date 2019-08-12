@@ -3,7 +3,7 @@
 <meta name="layout" content="page">
 <meta name="image" content="">
 <meta name="creditlink" content="">
-<meta name="excerpt" content="&quot;Python visualization&quot;">
+<meta name="excerpt" content="&quot;Deal with CT Images&quot;">
 <meta name="comments" content="false">
 <meta name="feature" content="">
 <meta name="share" content="false"><style>body {
@@ -1063,25 +1063,17 @@ body .markdown-body
 .codehilite .vi{color:teal}
 .codehilite .il{color:#009999}
 .codehilite .gc{color:#999;background-color:#EAF2F5}
-</style><title>Seaborn &amp; Matplotlib</title></head><body><article class="markdown-body"><p>Click to visit the <a href="https://seaborn.pydata.org/#">Seaborn</a> and <a href="https://matplotlib.org/index.html">Matplotlib</a> websites.</p>
-<p>The manuscript of journal paper usually has a page width of 16 cm. As the final article has two columns, the figure for one column will have a width of 8 cm while the figure accrossing two columns will have a width of 16 cm.</p>
-<h2 id="tutorial-1">Tutorial 1:<a class="headerlink" href="#tutorial-1" title="Permanent link"></a></h2>
-<h2 id="q-a">Q &amp; A<a class="headerlink" href="#q-a" title="Permanent link"></a></h2>
-<p><strong>Change font size</strong>
-<div class="codehilite"><pre>from matplotlib import rc
-rc={&#39;font.size&#39;:10, 
-    &#39;axes.labelsize&#39;: 10,   
-    &#39;legend.fontsize&#39;: 10, 
-    &#39;axes.titlesize&#39;: 10, 
-    &#39;xtick.labelsize&#39;: 10, 
-    &#39;ytick.labelsize&#39;: 10}
-sns.set(font = &#39;Arial&#39;, rc=rc)
-</pre></div></p>
-<p><strong>Set figure size</strong>
-<div class="codehilite"><pre>fig, ax = plt.subplots(1,1,figsize=(6,4))
-</pre></div>
-Here, the unit of figure size is inches. So the 
-16*16 cm   = 6.3*6.3 inch,<br />
-16*10.7 cm = s6.3*4.2 inch (aspect ratio is 6:4),   <br />
-8*8 cm     = 3.15*3.15 inch,<br />
-8*5.3 cm   = 3.15*2.1 inch.</p></article></body></html>
+</style><title>ImageJ</title></head><body><article class="markdown-body"><p>ImageJ is a free software that used to deal with CT images.
+- Load image stacks
+- Mitigate artificial effects
+<!-- Different to do this, refer to articles
+-->
+- Threshold
+<!-- How to determine the threshold, the otsu method.
+-->
+- Watershed segmentation
+<!-- Different methods in watershed, watershed definition, Morpholibj
+-->
+- Particle analysis
+<!-- 2D,3D, different plugin: particle analyze, particles8_plus, biovexxol, morpholibj...
+--></p></article></body></html>
