@@ -73,31 +73,48 @@ Location String	Location Code
 
 Example:  
 ```
-leg = ax.legend(fontsize = label_font_size, columnspacing = 0, handletextpad = 0.01,loc='best',fancybox=True, framealpha=0.0)
+leg = ax.legend(fontsize      = label_font_size, 
+                columnspacing = 0, 
+                handletextpad = 0.01,
+                loc           = 'best',
+                fancybox      = True, 
+                framealpha    = 0.0)
 ```
 - To specify the location, use `bbox_to_anchor`
 Example:  
 ```
-leg = ax.legend(fontsize = label_font_size, columnspacing = 0, handletextpad = 0.1, bbox_to_anchor = (0.45, 0.1))
+leg = ax.legend(fontsize       = label_font_size, 
+                columnspacing  = 0, 
+                handletextpad  = 0.1,
+                bbox_to_anchor = (0.45, 0.1))
 ```
 - Use both loc and bbox_to_anchor
 Example:  
 ```
- fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center')
- fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center left')
- fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center right')
- ```
+fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center')
+fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center left')
+fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center right')
+```
  The first command will put the center of the bounding box at axes coordinates 0.5,0.5. The second will put the center left edge of the bounding box at the same coordinates (i.e. shift the legend to the right). Finally, the third option will put the center right edge of the bounding box at the coordinates (i.e. shift the legend to the left).
 
 **Save figure**
 ```
-fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', format='eps', bbox_inches='tight', dpi=500)
-fig.savefig(fig_dir + 'thermal-conductivity-validation.png', format='png', bbox_inches='tight', dpi=500)
+fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', 
+            format='eps', bbox_inches='tight', 
+            dpi=500)
+fig.savefig(fig_dir + 'thermal-conductivity-validation.png', 
+            format='png', 
+            bbox_inches='tight', 
+            dpi=500)
 ```
 Sometimes, these sentence should be in the same cell of your plot when drawing graphs in Jupyter.
 
 **Used scientific format in the axis**
 ```
-ax.ticklabel_format (axis='x', style='sci',scilimits=(0,0), useOffset=False, useMathText=True)
+ax.ticklabel_format (axis='x', 
+                     style='sci',
+                     scilimits=(0,0), 
+                     useOffset=False, 
+                     seMathText=True)
 Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
 ```
