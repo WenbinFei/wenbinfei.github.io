@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seaborn & Matplotlib Q & A
+title: Seaborn & Matplotlib: Q & A
 modified: 
 excerpt: "Python visualization"
 comments: false
