@@ -35,6 +35,19 @@ sns.set_style("ticks", {'axes.edgecolor': 'k',
 rcParams.update({'figure.autolayout': False})
 ```
 
+**Set font size separately if you want to change it later**
+```
+ax.set_xlabel('$[G^c]_{P_w}$', fontsize = 16)
+ax.set_ylabel('$\lambda_{eff} / \lambda_{solid}$', fontsize = 16)
+ax.tick_params(axis="both", labelsize=16)
+```
+
+**Set tick**
+```
+ax.set_xticks([1,4,5]) 
+ax.set_xticklabels([1,4,5], fontsize=12)
+```
+
 **Change font size**  
 ``sns.set(font_scale=2)``
 
@@ -92,9 +105,7 @@ leg = ax.legend(fontsize       = label_font_size,
 Example:  
 ```
 fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center')
-
 fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center left')
-
 fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center right')
 ```
  The first command will put the center of the bounding box at axes coordinates 0.5,0.5. The second will put the center left edge of the bounding box at the same coordinates (i.e. shift the legend to the right). Finally, the third option will put the center right edge of the bounding box at the coordinates (i.e. shift the legend to the left).
