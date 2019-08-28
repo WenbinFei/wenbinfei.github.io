@@ -26,6 +26,5 @@ image:
 modeling of fluid flow and rock deformation associated with carbon dioxide geological sequestration.
 15th International Conference of the International Association for Computer Methods and Advances
 in Geomechanics (15th IACMAG).
-
 - **Fei W**, Li Q, Liu X, Wei X, Jing M, Song R, et al. "[Coupled Analysis for Interaction of Coal Mining and CO2 Geological Storage in Ordos Basin, China](https://www.onepetro.org/conference-paper/ISRM-ARMS8-2014-292)." ARMS8-2014 ISRM International Symposium-8th Asian Rock Mechanics Symposium-Rock Mechanics for Global Issues-Natural Disasters, Environment and Energy. 2014. p. 2485-94.
 
