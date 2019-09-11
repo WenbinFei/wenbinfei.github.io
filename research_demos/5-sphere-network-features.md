@@ -13,7 +13,7 @@ image:
 
 Dimensionless effective thermal conductivity (ETC) is calculated as dividing the effective thermal conductivity by the thermal conductivity of solid. The dimensionless ETC  shows a good relationship with closeness centrality and local clustering coefficient.
 
-The following three graphs are interactive, please use your mouse to obtain a proper visualization by zooming and changing the perspective.
+The following graph is interactive, please use your mouse to obtain a proper visualization by zooming and changing the perspective.
 
 <html>
     <head><meta charset="utf-8" /></head>
