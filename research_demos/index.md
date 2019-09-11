@@ -10,6 +10,9 @@ image:
   credit: 
   creditlink: 
 ---
+**[The relationship between closeness centrality, local clustering coefficient and ETC](5-sphere-network-features.md)**  
+Closeness centrality and local clustering coefficient are good to predict thermal conductivity of sphere packings.
+
 **[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks](4-rigidity.md)**  
 Particle shape and local clustering coefficient are good to predict thermal conductivity of granular materials under loading.
 
