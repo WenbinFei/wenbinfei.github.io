@@ -110,6 +110,11 @@ fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center right')
 ```
  The first command will put the center of the bounding box at axes coordinates 0.5,0.5. The second will put the center left edge of the bounding box at the same coordinates (i.e. shift the legend to the right). Finally, the third option will put the center right edge of the bounding box at the coordinates (i.e. shift the legend to the left).
 
+**Change the colume of legend**
+```
+ax.legned(ncol=)
+```
+
 **Save figure**
 ```
 fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', 
@@ -130,4 +135,15 @@ ax.ticklabel_format (axis='x',
                      useOffset=False, 
                      seMathText=True)
 Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
+```
+
+**Change the range of colorbar**
+```
+plt.clim(0,13)
+```
+
+**Change the tick font size in colorbar**
+```
+cb = plt.colorbar()
+cb.ax.tick_params(labelsize=tick_font_size)
 ```
