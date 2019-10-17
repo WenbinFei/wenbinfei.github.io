@@ -153,3 +153,8 @@ cb.ax.tick_params(labelsize=tick_font_size)
 handles, labels = ax.get_legend_handles_labels()
 ax.legend(handles=handles[1:], labels=labels[1:])
 ```
+
+**Change tick interval**
+```
+ax.set_yticks(list(np.arange(0.05,0.38,0.1)))
+```
