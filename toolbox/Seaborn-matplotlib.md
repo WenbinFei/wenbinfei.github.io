@@ -147,3 +147,9 @@ plt.clim(0,13)
 cb = plt.colorbar()
 cb.ax.tick_params(labelsize=tick_font_size)
 ```
+
+**Remove the legend title in seaborn plotting**
+```
+handles, labels = ax.get_legend_handles_labels()
+ax.legend(handles=handles[1:], labels=labels[1:])
+```
