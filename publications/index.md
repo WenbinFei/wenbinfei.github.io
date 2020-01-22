@@ -12,6 +12,7 @@ image:
 ---
 
 **Journal papers**
+- **Fei W**, Narsilio G,van der linden J, Disfani M, "[Network analysis of heat transfer in sphere packings. Powder technology](https://doi.org/10.1016/j.powtec.2019.11.123)." 2020; 362:790-804
 - **Fei W**, Narsilio G, Disfani M, "[Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder technology](https://doi.org/10.1016/j.powtec.2019.07.094)." 2019; 355:770-781
 - **Fei W**, Narsilio G, van der linden J, Disfani M, "[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514)." 2019; 143, 118514
 - **Fei W**, Li Q, Wei X, Song R, Jing M, Li X. "[Interaction analysis for CO2 geological storage and underground coal mining in Ordos Basin, China. Engineering Geology](https://doi.org/10.1016/j.enggeo.2015.07.017)." 2015;196:194-209.
