@@ -55,4 +55,4 @@ The following graph is interactive, please use your mouse to obtain a proper vis
 
 <b>Fig The relationship between dimensionless ETC from FEM, closeness centrality and local clustering has a correlation coefficient of 0.96</b>
 
-
+More details refer to ["Fei W, Narsilio G,van der linden J, Disfani M, “Network analysis of heat transfer in sphere packings. Powder technology.” 2020; 362:790-804".](https://www.sciencedirect.com/science/article/abs/pii/S0032591019310915?via%3Dihub)
