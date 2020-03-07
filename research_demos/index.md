@@ -10,6 +10,9 @@ image:
   credit: 
   creditlink: 
 ---
+**[The relationship between weighted coordination number, particle shape and ETC](6-ANN.md.md)**  
+Weighted coordination number can capture both particle connectivity and contact quality.
+
 **[The relationship between closeness centrality, local clustering coefficient and ETC](5-sphere-network-features.md)**  
 Closeness centrality and local clustering coefficient are good to predict thermal conductivity of sphere packings.
 
