@@ -10,14 +10,10 @@ image:
   creditlink: 
 ---
 
-I am at heart a geotechnical engineer who likes studying thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scales. From micro scale to laboratory scale, I adopt image techniques and complex theory to investigate the optimal features dominating physics. At the field scale, I combine different commercial software with home-made code to simulate the large projects.
+Dr Wenbin Fei explores the multi-scale Thermal–Hydraulic–Mechanical–Chemical (THMC) processes in geomaterials with contributions to geothermal engineering, energy structure, energy geo-storage, and energy waste management (carbon geological storage and recycled materials in concrete and permeable pavement). At particle-level and pore-level, he developed a platform combining Computed Tomography (CT) techniques, advanced image processing algorithms, Discrete Element Methods (DEM), complex network theory (i.e. graph theory), Finite Element Method (FEM), network model and machine learning, with the aim to characterise microstructure of geomaterials and predict thermal conductivity and permeability automatically, efficiently and without artificial bias. At the field scale, he developed a software AEEA-Coupler which combines different commercial software (ABAQUS and ECLIPSE) to simulate the THMC problems in real-size projects.
 
-Currently, I am  pursuing a Ph.D. degree in the University of Melbourne. Previously, I holds a BS diploma of geology engineering from Chang‘an University, China (2011), and in 2014 I received an MS in Architectural and Civil Engineering from Chinese Academy of Sciences, Wuhan Institute of Rock and Soil Mechanics (IRSM). Before starting my Ph.D, I worked as a road engineer at China Railway Siyuan Survey and Design Group Co., LTD.
+Currently, Wenbin is working as a Research Fellow at The University of Melbourne. He completed his PhD at The University of Melbourne in 2020, received an Master degree from the University of Chinese Academy of Sciences in 2014 and a Bachelor diploma from Chang‘an University, China in 2011. Between his Master and PhD, he worked as a geotechnical engineer for China Railway Siyuan Survey and Design Group Co., LTD.
 
 [Link to Researchgate](https://www.researchgate.net/profile/Wenbin_Fei)		|		
 [Link to Google Scholar](https://scholar.google.com/citations?user=2ezTbggAAAAJ&hl=en)		|		
-[Link to Our Team in Melbourne University](http://pmrl.weebly.com/)
-
-<!--
-![PhD resarch topic](images/wenbinfei-research-profile.jpg)
--->
+[Link to Our Team at Melbourne University](http://pmrl.weebly.com/)
