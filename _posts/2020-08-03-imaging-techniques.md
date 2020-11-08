@@ -13,9 +13,13 @@ Geometries of granular materials can be digitalised as images using imaging tech
 | **Techniques** | **Theory** | **Comments** |
 | --- | --- | --- |
 | Optical Microscope (OM) | Visible light and a series of lenses are used to magnify images of small objects. | Cannot scan the interior structure of granular assemblies;Low accurate reconstruction of grain with an irregular shape. |
+| --- | --- | --- |
 | Scanning Electron Microscopy (SEM) | A focused beam of electrons interacting with atoms in the samples is employed to produce various signals. | Samples are required to be sliced;Can apply X-Ray to classify the constituents (mineralogy) of the particles. |
+| --- | --- | --- |
 | Optical Tomography (OT) | Light transfers and scatters through an object rotated at regular angular intervals. | Samples over mm and cm scales;Lower accuracy but relatively cheap;It works well on soft tissue in the medical field. |
+| --- | --- | --- |
 | X-Ray Computed Tomography (X-Ray CT) | A sample is placed between an X-ray source and an X-ray detector; then the detector rotates systematically to record 2D radiographs at different angles from 0° to 360°. | Ideal to objects with distinguished X-ray absorption coefficient (dense materials);Performs badly for a mixture of objects with low and high density together;CT images can be identified by simple threshold-based tools. |
+| --- | --- | --- |
 | Magnetic Resonance Imaging (MRI) | A magnetic field is created by a cylindrical magnet that acts on protons in water and generates echo because of the MRI scan&#39;s radio waves. Then these echoes can be captured and organised into images by a computer. | Water &#39;X-ray&#39;;Can obtain information on flow pathways, water content and liquid flow velocity .Ideal for distinguishing between different soft tissues in the medical field;Can take cross-sectional images of an object from almost any angle;Manual segmentations are necessary. |
 
 **Please cite our papers below related to CT imaging**
