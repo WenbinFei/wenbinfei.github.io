@@ -19,8 +19,13 @@ Closeness centrality and local clustering coefficient are good to predict therma
 **[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks](4-rigidity.md)**  
 Particle shape and local clustering coefficient are good to predict thermal conductivity of granular materials under loading.
 
-**[Three dimensional (3D) Particle shape descriptors computation based on Computed Tomography (CT) images](2-particle-shape.md)**  
+**[3D Particle shape descriptors from CT images](2-particle-shape.md)**  
 Sphericity and roundness of every single particle in soil or rock samples
+<body>
+	<p align="left"> 
+	    <img src="/images/particle-shape-framework.png"  width='70%'/><br>	    
+	</p>
+</body>
 
 **[Finite element simulation of heat transfer based on CT image](1-FEM-heat-transfer.md)**  
 Generate mesh based on CT images and do simulation.
