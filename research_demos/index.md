@@ -28,7 +28,7 @@ Particle scale study on fluid flow and heat flow in granular materials
 **[Porous media](1-porous-media.md)**  
 Porous media is ubiquitous aroud us. E.g. sponge, candy, sand, snow, bone...
 
-**[THMC coupling analysis at field scale](3-AEEA-coupler.md)**  
+**[THMC numerical simulation for complex industrial projects](3-AEEA-coupler.md)**  
 AEEA coupler linking ABAQUA and ECLIPSE
 <body>
 	<p align="center"> 

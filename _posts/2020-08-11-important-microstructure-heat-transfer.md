@@ -18,6 +18,12 @@ Characteristics about particle connectivity (except for CN) are still scarce. An
 
 Even though granular materials are complex systems and the complex network-based approach offers an opportunity to enrich particle connectivity features (e.g., degree, centrality measures, cycles and clustering coefficients) [28], considering many of them together with traditional parameters such as particle size and porosity may increase the redundancy of λeff models. Hence, the most important network features related to λeff are required to be screened to quantify the particle arrangement succinctly at multiple scales. The screening processes are implemented objectively using machine learning (ML) techniques in my PhD project (i.e., feature selection). In addition to the feature selection, ML also shows great potential for predicting material properties in a more efficient, objective and autonomous process [29]. λeff prediction using ML methods have been studied in [27, 30, 31]. However, particle connectivity parameters were absent and the studies used artificial materials. 
 
+<body>
+	<p align="center"> 
+	    <img src="fig-mesh-fem.png"  width='100%'/><br>	    
+	</p>
+</body>
+
 **References**  
 [1] T.S. Yun, T.M. Evans, Three-dimensional random network model for thermal conductivity in particulate materials, Computers and Geotechnics, 37 (2010) 991-998.  
 [2] M. Moscardini, Y. Gan, S. Pupeschi, M. Kamlah, Discrete element method for effective thermal conductivity of packed pebbles accounting for the Smoluchowski effect, Fusion Engineering and Design, 127 (2018) 192-201.  
