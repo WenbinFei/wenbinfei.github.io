@@ -20,7 +20,7 @@ Closeness centrality and local clustering coefficient are good to predict therma
 Rigidity is qutified using complex network theofy. Particle shape and local clustering coefficient well relate to predict thermal conductivity of granular materials under loading.
 <body>
 	<p align="left"> 
-	    <img src="/images/particle-shape-framework.png"  width='100%'/><br>	    
+	    <img src="/images/rigidity-triangle-diamond.png"  width='100%'/><br>	    
 	</p>
 </body>
 
