@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-**[Network analysis of heat transfer](8-network-analysis.md)**  
+**[Network analysis of heat transfer in granular materials](8-network-analysis.md)**  
 Quantify microstructure using complex network theory (graph theory). Construct both contact and thermal networks and use their features to predict thermal conductivity of sphere packings and natural sands.
 <body>
 	<p align="left"> 
@@ -26,7 +26,7 @@ An alternative method to simulate heat transfer.
 	</p>
 </body>
 
-**[Rigidity of sands and its impact on heat transfer](4-rigidity.md)**  
+**[Rigidity of sands and its impact on heat transfer in granular materials](4-rigidity.md)**  
 Rigidity is quantified using complex network theory. Particle shape and local clustering coefficient well relate to predict thermal conductivity of granular materials under loading.
 <body>
 	<p align="left"> 
