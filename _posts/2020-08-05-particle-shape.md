@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What are proper Particle shape descriptors?"
+title: "What are proper particle shape descriptors?"
 excerpt: "Particle shape descriptors comparsion"
 modified: 2020-08-04
 tags: [blog]

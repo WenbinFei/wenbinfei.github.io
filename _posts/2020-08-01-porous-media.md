@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is Porous media?"
+title: "What is porous media?"
 excerpt: "Porous media and its applications"
 modified: 2020-08-01
 
