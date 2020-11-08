@@ -34,7 +34,7 @@ Equivalent cylinders are used to compute thermal conductance.
 
 *Fig.3 Computation of thermal conductance in the thermal conductance network (TCNM).*
 
-Two main advantages of TCNM is:
+Two main advantages of TCNM are:
 - Computational efficiency
 - Mitigate partial volume effect
 
