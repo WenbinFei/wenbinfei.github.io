@@ -54,7 +54,7 @@ A number of definitions (and corresponding equations) have been proposed in the 
 
 <body>
 	<p align="center"> 
-	    <img src="/images/particle-shape-3D-descriptors-comparison.png.png"  width='100%'/><br>	    
+	    <img src="/images/particle-shape-3D-descriptors-comparison.png"  width='100%'/><br>	    
 	</p>
 </body>
 
