@@ -10,8 +10,14 @@ image:
   credit: 
   creditlink: 
 ---
-**[The relationship between weighted coordination number, particle shape and ETC](6-ANN.md)**  
-Weighted coordination number can capture both particle connectivity and contact quality.
+**[Thermal Conductance Network Model](7-TCNM.md)**  
+An alternative method to simulate heat transfer.
+<body>
+	<p align="left"> 
+	    <img src="/images/TCNM-visulisation.png"  width='100%'/><br>	    
+	</p>
+</body>
+
 
 **[Rigidity of sands and its impact on heat transfer](4-rigidity.md)**  
 Rigidity is qutified using complex network theofy. Particle shape and local clustering coefficient well relate to predict thermal conductivity of granular materials under loading.
