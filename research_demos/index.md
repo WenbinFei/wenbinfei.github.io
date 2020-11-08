@@ -62,7 +62,7 @@ AEEA coupler linking ABAQUA and ECLIPSE
 Experimental studies of anisotropy and non-coaxiality by using the hollow cylindrical apparatus
 <body>
 	<p align="left"> 
-	    <img src="/images/non-coaxility.jpg"  width='70%'/><br>	    
+	    <img src="/images/non-coaxility.png"  width='70%'/><br>	    
 	</p>
 </body>
 
