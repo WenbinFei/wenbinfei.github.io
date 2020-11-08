@@ -10,6 +10,7 @@ comments: false
 Geometries of granular materials can be digitalised as images using imaging techniques. Then, the samples can be virtually reconstructed to compute particle size, shape and other microstructural variables. Some imaging techniques are summarised in the Table below. Among them, CT has become the most prevalent one to achieve 3D morphological information of granular materials. It currently acts as a mean to characterise specimen heterogeneity, to visualise multiphase flow, and to track shear deformation and fracture characteristics. However, only a few studies have used this 3D information to ‘mine’ or extract and fundamentally understand other key geomaterial properties.
 
 **Table Overview of image techniques**  
+
 | **Techniques** | **Theory** | **Comments** |
 | --- | --- | --- |
 | Optical Microscope (OM) | Visible light and a series of lenses are used to magnify images of small objects. | Cannot scan the interior structure of granular assemblies;Low accurate reconstruction of grain with an irregular shape. |
