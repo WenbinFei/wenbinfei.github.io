@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [doi(https://doi.org/10.1016/j.powtec.2019.11.123).**
+- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [do](https://doi.org/10.1016/j.powtec.2019.11.123).**
 - **Fei W, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).**
 
 ### Network construction
@@ -43,7 +43,7 @@ A network is a collection of nodes that are linked by edges. Different networks 
 ### Complex network feature in granular materials
 
 <figure align="center"> 
-<img src="/images/network-contact-detection.png" width='100%'/><br>
+<img src="/images/network-features-visulisation.png" width='100%'/><br>
 </figure> 
 
 *Fig.3 Networks of the poly-disperse sample with porosity 0.246: (a) Contact network, (b) Thermal network. The colour at nodes represents the node weighted closeness centrality while the colour at edges represents the type of edge (red edges represent particle contacts while the blue edges represent near-contacts). The node size is scaled by particle radius.*
