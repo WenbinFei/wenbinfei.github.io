@@ -13,7 +13,8 @@ Images are required to remove artefacts and be processed with multiple algorithm
 	<p align="center"> 
 	    <img src="/images/image-processing.png"  width='90%'/><br>	    
 	</p>
-</body>
+</body>  
+**Fei W**, Narsilio GA, Disfani MM. Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder Technology 2019, 355:770-781, [doi](https://doi.org/10.1016/j.powtec.2019.07.094).
 
 ### CT artefacts
 
