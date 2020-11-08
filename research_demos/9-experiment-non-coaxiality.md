@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Experimental study of anisotropy and non-coaxiality of granular
-solids
+title: Experimental study of anisotropy and non-coaxiality of granular solids
 modified: 
 excerpt: " "
 comments: false

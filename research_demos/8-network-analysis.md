@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Network analysis of heat transfer
+title: Network analysis of heat transfer in granular materials
 modified: 
 excerpt: " "
 comments: false
