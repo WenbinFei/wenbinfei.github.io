@@ -11,7 +11,7 @@ comments: false
 Porous media and granular materials are everywhere around us, such as candy, rice, snow, sand...
 
 Conduction phenomena, especially heat transfer and fluid flow, THROUGH these granular, porous media have numerous applications:
-- construction materials
+- Construction materials
 - Recovery of oil and gas, fracking
 - Geothermal engineering that our group is well know for
 - Disposal of nuclear waste
