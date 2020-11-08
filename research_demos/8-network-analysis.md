@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thermal Conductance Network Model
+title: Network analysis of heat transfer
 modified: 
 excerpt: " "
 comments: false
