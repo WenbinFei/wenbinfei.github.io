@@ -14,7 +14,7 @@ image:
 Quantify microstructure using complex network theory (graph theory). Construct both contact and thermal networks and use their features to predict thermal conductivity of sphere packings and natural sands.
 <body>
 	<p align="left"> 
-	    <img src="/images/network-features.png"  width='50%'/><br>	    
+	    <img src="/images/network-features.png"  width='100%'/><br>	    
 	</p>
 </body>
 
