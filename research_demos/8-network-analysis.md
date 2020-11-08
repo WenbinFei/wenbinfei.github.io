@@ -10,7 +10,12 @@ image:
   credit: 
   creditlink: 
 ---
-Two types of networks are constructed in this work. Contact networks are constructed to acquire the 3-cycles and cluster coefficients using complex network theory. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1) and it can be used to calculate the λ_eff by adding thermal conductance at the edges.
+
+- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [doi(https://doi.org/10.1016/j.powtec.2019.11.123).**
+- **Fei W, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).**
+
+### Network construction
+A network is a collection of nodes that are linked by edges. Different networks can be constructed and the meanings of nodes and edges change along with the type of the network. In a contact network, each node indicates a particle and an edge connects two nodes when two particles are in contact. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1)
 
 <figure align="center"> 
 <img src="/images/network-construction.png" width='100%'/><br>
@@ -18,43 +23,37 @@ Two types of networks are constructed in this work. Contact networks are constru
 
 *Fig.1 Procedures to construct a contact network and a thermal network. Contact edges are in red, near-contact edges are in blue.*
 
-To identify the real interparticle contact and near-contacts, the voxels in each particle are grouped as boundary voxels if they are adjacent to anything other than the voxels in the same particle. A subset of these boundary voxels is identified as interparticle contact voxels if they also border on another particle (and its corresponding boundary voxels). To efficiently identify the near-contacts, watershed segmentation is also applied to the void space (grayscale colours in Fig. 2-left) by first inverting the colour of phases and then following the same steps as with the solid phase watershed segmentation. The particle-pore connection (orange arrows) can be detected if the boundary voxels border on pore space. Then, the particle-pore-particle connections are identified as the location of potential near-contacts. Next, to determine the voxels that form part of a near-contact, cylinders representing gaps between particles or ‘gap’ cylinders are created for boundary voxels on a particle, as shown in Fig. 2-right, and their lengths L<sub>i</sub><sup>g</sup> are computed as the minimum distance to the boundary voxels on the neighbouring particle. Finally, the gap cylinder(s) will be considered to be in a near-contact if their respective lengths are shorter than a threshold ϵ. The threshold ϵ is selected as half of the mean particle radius after a calibration.
+### Complex network theory
+- Centrality indicates the node position and the “significance” of a node in the network, with varying types of centrality defining this significance in distinct ways. Five metrics can be used to measure centrality.
+	- The degree of a node is measured as the number of edges linked to a node.
+	- Closeness centrality is a measure of the distance of a node to all others.
+	- Betweenness centrality characterises the importance of a node or an edge as the bridge between other nodes or edges in a network.
+	- Eigenvector centrality considers the contribution of nodes to the connectivity of the whole network and indicates the node which has wide-reaching influence in a network.
+
+- Network scale is a measure indicating the average distance of one node from another in a network.
+- A cycle in a network is a loop of edges that starts and ends at the same node. An l-cycle is a cycle containing l edges. 3-cycle in contact network can hint the rigidity of granular materials.
+- Clustering implies how integrated or fractured the overall network system is.
+
+<figure align="center"> 
+<img src="/images/network-features.png" width='100%'/><br>
+</figure> 
+
+*Fig.2 Example of the same contact network and its different centrality values for nodes: (a) Degree, (b) Closeness centrality, (c) Betweenness centrality and (d) Eigenvector centrality. Each definition of centrality highlights different significances of centrality at nodes. The colour shows the value of each feature, red means high value while blue represents low value.*
+
+### Complex network feature in granular materials
 
 <figure align="center"> 
 <img src="/images/network-contact-detection.png" width='100%'/><br>
 </figure> 
 
-*Fig.2 Identification of near-contacts. ϵ is the threshold length (D_50/4 in this case) for near-contacts.*
+*Fig.3 Networks of the poly-disperse sample with porosity 0.246: (a) Contact network, (b) Thermal network. The colour at nodes represents the node weighted closeness centrality while the colour at edges represents the type of edge (red edges represent particle contacts while the blue edges represent near-contacts). The node size is scaled by particle radius.*
 
-Equivalent cylinders are used to compute thermal conductance.
+### Advantage of complex network features
 
-<figure align="center"> 
-<img src="/images/TCNM-thermal-coductance.png" width='100%'/><br>
-</figure> 
-
-*Fig.3 Computation of thermal conductance in the thermal conductance network (TCNM).*
-
-Two main advantages of TCNM are:
-- Computational efficiency
-- Mitigate partial volume effect
+Network features can resolve the unavailability of meso-scale characteristics of granular materials. Additionally, more new features can be achieved after weighting contact network by contact area or weighting thermal networks by thermal conductance. The new features have the merit of capturing more information: both the particle connectivity and contact quality, two essential properties to heat transfer. Therefore, it has stronger correlation with effective thermal conductivity of granular materials.
 
 <figure align="center"> 
-<img src="/images/TCNM-partial-volume-effect.png" width='100%'/><br>
+<img src="/images/network-features-thermal-conductivity.png" width='100%'/><br>
 </figure> 
 
-*Fig.4 Over-smoothing of CT images after threshold segmentation: (a) Two discs with a 1-pixel gap; (b) a small gap in grayscale; (c) over-smoothing in the contact after threshold segmentation (after [1]).*
-
-A simulation result by TCNM is shown in Fig.5
-
-<figure align="center"> 
-<img src="/images/TCNM-visulisation.png" width='60%'/><br>
-</figure> 
-
-*Fig.5 TCNM simulation results showing the temperature of each node. From this network system, it is easy to see paths of heat transfer: interparticle contacts are shown in red and the near-contacts are blue.*
-
-**Please cite the paper below**  
-- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514)**
-
-
-**Reference**  
-[1] M. Wiebicke, E. Andò, I. Herle, G. Viggiani, On the metrology of interparticle contacts in sand from x-ray tomography images, Measurement Science and Technology, 28(12) (2017) 124007.
+*Fig.4 The relationship between weighted degree from contact network and effective thermal conductivity (ETC) is stronger than that between porosity and ETC*
