@@ -17,10 +17,10 @@ image:
 
 
 ### Academic Experience
-Currently, Wenbin is working as a Research Fellow at The University of Melbourne. He completed his PhD at The University of Melbourne in 2020, received an Master degree from the University of Chinese Academy of Sciences in 2014 and a Bachelor diploma from Chang‘an University, China in 2011.
+Wenbin is working as a Research Fellow at The University of Melbourne after completing his PhD at the same University in 2020, received an Master degree from the University of Chinese Academy of Sciences in 2014 and a Bachelor diploma from Chang‘an University, China in 2011.
 
 #### Reserach
-My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. I have developed an platform to study the fluid flow and heat transfer in porous media at particle/pore scale using advanced techniques including image processing algorithms, complex network theory and machine learning techniques. For the development of the platform, I worked as a Data Scientist using tools such as pandas, opencv, networkx and graph-tool for data collection, scikit-learn and TensorFlow for data analysis, and matplitlib, seaborn and plotly for data visulisation. I also coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at large project scale.
+Wenbin discovers the mechanism of Thermal–Hydraulic–Mechanical–Chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. he has developed an platform to study THMC in porous media at particle/pore scale using advanced techniques including image processing algorithms, complex network theory and machine learning techniques. For the development of the platform, I worked as a Data Scientist using tools such as pandas, opencv, networkx and graph-tool for data collection, scikit-learn and TensorFlow for data analysis, and matplitlib, seaborn and plotly for data visulisation. I also coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at large project scale.
 
 The outputs of my research can also be implemented for engineering applications such as:
 
@@ -29,15 +29,15 @@ The outputs of my research can also be implemented for engineering applications 
 - The results of this project will assist in predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
 
 #### Teaching
-I have continued developing my teaching skills at the University of Melbourne. I have teaching and coordinating experience for two large postgraduate subjects: System Modelling and Design [CVEN90050] and Geotechnical Engineering [CVEN30010]. I participated in the subject design, assignments and exam design, budget allocation, learning management system design, exam questions design, tutorials, practical classes, consultations, marking and demonstrations for students.
+Wenbin has teaching and coordinating experience for two large postgraduate subjects: System Modelling and Design [CVEN90050] and Geotechnical Engineering [CVEN30010]. I participated in the subject design, assignments and exam design, budget allocation, learning management system design, exam questions design, tutorials, practical classes, consultations, marking and demonstrations for students.
 
 ### Industrial Experience
 
 
 #### Testing Engineer at Bamford Rock Testing Services(BRTS), 2018 – 2020
-Bamford Rock Testing Services was established by Dr Bill Banford who is recognised as a world leader in the field of specialised rock testing. Dr Bamford is currently an honorary Principal Fellow and Associate Professor in the Melbourne School of Engineering at the University of Melbourne. His specialisations include rock mechanics, mine design, geotechnical engineering. He held the position of Vice-President for the International Society for Rock Mechanics for 8 years.
+Bamford Rock Testing Services was established by Dr Bill Banford who is recognised as a world leader in the field of specialised rock testing. Dr Bamford is currently an honorary Principal Fellow and Associate Professor in the Melbourne School of Engineering at the University of Melbourne. He held the position of Vice-President for the International Society for Rock Mechanics for 8 years.
 
-I joined the team as a part-time testing engineer since 2018. This working experience not only strengthens my knowledge of the numerous rock testing methods for applications such as drilling, shafting, blastability, road headers, Trenching and Tunnel Boring Machines, but also nourish me with Australian and international standards as well as the management and operation of an Australian company.
+Wenbin joined the team as a part-time testing engineer since 2018. This working experience not only strengthens his knowledge of the numerous rock testing methods for applications such as drilling, shafting, blastability, road headers, Trenching and Tunnel Boring Machines, but also nourish me with Australian and international standards as well as the management and operation of an Australian company.
 
 #### Geotechnical Engineer, China Railway Siyuan Survey and Design Group Co., LTD, 2014 - 2016
 
