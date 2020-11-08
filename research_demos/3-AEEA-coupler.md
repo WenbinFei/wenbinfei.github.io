@@ -24,7 +24,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 
 <body>
 	<p align="center"> 
-	    <img src="/images/AEEA-coupler-steps.jpg" /><br>
+	    <img src="/images/AEEA-coupler-steps.jpg" width='70%'/><br>
 	    <b>Fig.2. Time steps and variables update in coupling analyses.</b>
 	</p>
 </body>
