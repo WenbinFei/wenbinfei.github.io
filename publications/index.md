@@ -11,21 +11,27 @@ image:
   creditlink: 
 ---
 
-**Journal papers**
-- **Fei W**, Narsilio G,van der linden J, Disfani M, "[Network analysis of heat transfer in sphere packings. Powder technology](https://doi.org/10.1016/j.powtec.2019.11.123)." 2020; 362:790-804
-- **Fei W**, Narsilio G, Disfani M, "[Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder technology](https://doi.org/10.1016/j.powtec.2019.07.094)." 2019; 355:770-781
-- **Fei W**, Narsilio G, van der linden J, Disfani M, "[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514)." 2019; 143, 118514
-- **Fei W**, Li Q, Wei X, Song R, Jing M, Li X. "[Interaction analysis for CO2 geological storage and underground coal mining in Ordos Basin, China. Engineering Geology](https://doi.org/10.1016/j.enggeo.2015.07.017)." 2015;196:194-209.
-- Yang Y, **Fei W**, Yu H-S, Ooi J, Rotter M. "[Experimental study of anisotropy and non- coaxiality of granular solids](https://doi.org/10.1007/s10035-015-0551-7)." Granular Matter. 2015;17:189-96.
-- Li Q, **Fei W**, Liu X, Wei X, Jing M, Li X. "[Challenging combination of CO2 geological storage and coal mining in the Ordos basin, China](http://onlinelibrary.wiley.com/doi/10.1002/ghg.1408/full).“ Greenhouse Gases: Science and Technology. 2014;4:452-67.
-- Li Q, Wei Y-N, Liu G, Jing M, Zhang M, **Fei W**, et al. "[Feasibility of the combination of CO2 geological storage and saline water development in sedimentary basins of China](https://doi.org/10.1016/j.egypro.2013.06.357)." Energy Procedia. 2013;37:4511-7.
-- Zhang M, Yang Y, Li Q, Jiang M, **Fei W**. "[Influence of Stress Paths Including Principal Stress Rotation on Critical State of Dense Sand](http://www.rockmech.org/EN/abstract/abstract28332.shtml)." Chinese Journal of Rock Mechanics and Engineering. 2013;32:2560-5.
+### Papers
+- **Fei W**, Narsilio GA, Disfani MM. Predicting effective thermal conductivity in sand using an artificial neural network with multiscale microstructural parameters. International Journal of Heat and Mass Transfer 2021, Accepted (minor revision).
+- **Fei W**, Narsilio GA. Impact of Three-Dimensional Sphericity and Roundness on Coordination Number. Journal of Geotechnical and Geoenvironmental Engineering 2020, 146:06020025, [doi](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002389).
+- **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [doi(https://doi.org/10.1016/j.powtec.2019.11.123).
+- **Fei W**, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).
+- Li Q, **Fei W**, Ma J, Jing M, Wei X. Coupled CO2 Sequestration Simulation Using ABAQUS and ECLIPSE. Environmental Geotechnics 2019:1-12, [doi](https://www.icevirtuallibrary.com/doi/abs/10.1680/jenge.18.00036).
+- **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514).
+- **Fei W**, Narsilio GA, Disfani MM. Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder Technology 2019, 355:770-781, [doi](https://doi.org/10.1016/j.powtec.2019.07.094).
+- Yang Y, **Fei W**, Yu H-S, Ooi J, Rotter M. Experimental study of anisotropy and non-coaxiality of granular solids. Granular Matter 2015, 17:189-196, [doi](https://doi.org/10.1007/s10035-015-0551-7).
+- **Fei W**B, Li Q, Wei XC, Song RR, Jing M, Li XC. Interaction analysis for CO2 geological storage and underground coal mining in Ordos Basin, China. Engineering geology 2015, 196:194-209, [doi](https://doi.org/10.1016/j.enggeo.2015.07.017).
+- Li Q, **Fei W**, Liu X, Wei X, Jing M, Li X. Challenging combination of CO2 geological storage and coal mining in the Ordos basin, China. Greenhouse Gases: Science and Technology 2014, 4:452-467, [doi](https://doi.org/10.1002/ghg.1408).
+- **Fei W**, Li Q, Liu X, Wei X, Jing M, Song R, Li X, Wang Y. Coupled analysis for interaction of coal mining and CO 2 geological storage in Ordos Basin, China. In: ISRM International Symposium-8th Asian Rock Mechanics Symposium: International Society for Rock Mechanics and Rock Engineering; 2014.
+- ZHANG M, YANG Y, Li Q, JIANG M, **Fei W**. Influence of stress paths including principal stress rotation on critical state of dense sand. 2013, 32:2560-2565, [doi](http://www.rockmech.org/EN/abstract/abstract28332.shtml).
+- Li Q, Wei Y-N, Liu G, Jing M, Zhang M, **Fei W**, Li X. Feasibility of the Combination of CO2 Geological storage and Saline Water Development in Sedimentary Basins of China. Energy Procedia 2013, 37:4511-4517, [doi](https://doi.org/10.1016/j.egypro.2013.06.357).
 
-
-**Conference publications**
-- Li Q, Ma J, **Fei W**, et al, Coupling of ABAQUS and ECLIPSE for thermo-hydro-geomechanical
-modeling of fluid flow and rock deformation associated with carbon dioxide geological sequestration.
-15th International Conference of the International Association for Computer Methods and Advances
-in Geomechanics (15th IACMAG).
-- **Fei W**, Li Q, Liu X, Wei X, Jing M, Song R, et al. "[Coupled Analysis for Interaction of Coal Mining and CO2 Geological Storage in Ordos Basin, China](https://www.onepetro.org/conference-paper/ISRM-ARMS8-2014-292)." ARMS8-2014 ISRM International Symposium-8th Asian Rock Mechanics Symposium-Rock Mechanics for Global Issues-Natural Disasters, Environment and Energy. 2014. p. 2485-94.
+### Conference presentation
+- InterPore 2020. International Society for Porous Media, online due to Covid-19, 2020.
+- InterPore 2019. Valencia, Spain, 2019.
+- Grain Day. Australian Association for Granular Media, Sydney,2019
+- Patterns in Geomechanics. Australian Association for Granular Media, by invitation only, Sydney, 2019
+- ARMS8-2014, ISRM International Symposium-8th Asian Rock Mechanics Symposium-Rock Mechanics for Global Issues-Natural Disasters, Environment and Energy. Sapporo, Japan, 2014.
+- Australian InterPore conference. International Society for Porous Media, Melbourne, 2018
+- Infrastructure Engineering Postgraduate Conference 2017, 2018 and 2019, Melbourne
 

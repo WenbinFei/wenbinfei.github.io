@@ -6,4 +6,13 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
-0-temp/
+0-temp/*
+0_temp/0-my_publications/Wenbin-Fei_publications.enl
+0_temp/0-my_publications/Wenbin-Fei_publications.docx
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/refs_ext.MYI
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/refs_ext.MYD
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/refs.MYI
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/refs.MYD
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/misc.MYI
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/rdb/misc.MYD
+0_temp/0-my_publications/Wenbin-Fei_publications.Data/PDF/1367773511/Wenbin-Fei_2019_particle-shape-heat-transfer.pdf
