@@ -30,6 +30,6 @@ The network can also be weighted by an attribute. For example, the interpersonal
 </body>
 
 
-**My papers related to complex network theory, I also used machine learning**  
+**My papers related to complex network theory, I also used machine learning in the papers**  
 - **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [do](https://doi.org/10.1016/j.powtec.2019.11.123).**
 - **Fei W, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).**
