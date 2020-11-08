@@ -23,7 +23,7 @@ Particle shape and local clustering coefficient are good to predict thermal cond
 Sphericity and roundness of every single particle in soil or rock samples
 <body>
 	<p align="left"> 
-	    <img src="/images/particle-shape-framework.png"  width='70%'/><br>	    
+	    <img src="/images/particle-shape-framework.png"  width='100%'/><br>	    
 	</p>
 </body>
 
