@@ -42,12 +42,12 @@ Two main advantages of TCNM is:
 <img src="/images/TCNM-partial-volume-effect.png" width='100%'/><br>
 </figure> 
 
-*Fig.3 Over-smoothing of CT images after threshold segmentation: (a) Two discs with a 1-pixel gap; (b) a small gap in grayscale; (c) over-smoothing in the contact after threshold segmentation (after [1].*
+*Fig.3 Over-smoothing of CT images after threshold segmentation: (a) Two discs with a 1-pixel gap; (b) a small gap in grayscale; (c) over-smoothing in the contact after threshold segmentation (after [1]).*
 
 
 
 **Please cite the paper below**  
-- - **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514).
+- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514)**
 
 
 **Reference**  
