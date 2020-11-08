@@ -32,8 +32,7 @@ Porous media is ubiquitous aroud us. E.g. sponge, candy, sand, snow, bone...
 AEEA coupler linking ABAQUA and ECLIPSE
 <body>
 	<p align="center"> 
-	    <img src="/images/AEEA-coupler-scheme.jpg" /><br>
-	    <b>Fig.1. Schematic diagram of the AEEA Coupler.</b>
+	    <img src="/images/AEEA-coupler-scheme.jpg"  width='50%'/><br>	    
 	</p>
 </body>
 
