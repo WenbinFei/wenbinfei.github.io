@@ -30,5 +30,11 @@ Porous media is ubiquitous aroud us. E.g. sponge, candy, sand, snow, bone...
 
 **[THMC coupling analysis at field scale](3-AEEA-coupler.md)**  
 AEEA coupler linking ABAQUA and ECLIPSE
+<body>
+	<p align="center"> 
+	    <img src="/images/AEEA-coupler-scheme.jpg" /><br>
+	    <b>Fig.1. Schematic diagram of the AEEA Coupler.</b>
+	</p>
+</body>
 
 
