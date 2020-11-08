@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Network analysis of heat transfer
+title: Experimental study of anisotropy and non-coaxiality of granular
+solids
 modified: 
 excerpt: " "
 comments: false
@@ -11,49 +12,18 @@ image:
   creditlink: 
 ---
 
-- **Fei W, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [do](https://doi.org/10.1016/j.powtec.2019.11.123).**
-- **Fei W, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).**
+- Yang Y, **Fei W**, Yu H-S, Ooi J, Rotter M. Experimental study of anisotropy and non-coaxiality of granular solids. Granular Matter 2015, 17:189-196, [doi](https://doi.org/10.1007/s10035-015-0551-7).
 
-### Network construction
-A network is a collection of nodes that are linked by edges. Different networks can be constructed and the meanings of nodes and edges change along with the type of the network. In a contact network, each node indicates a particle and an edge connects two nodes when two particles are in contact. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1)
+Anisotropy and non-coaxiality are two important characteristics of particulate materials, and they significantly influence their mechanical behavior [1, 2, 9, 10, 19, 26]. The anisotropy is mainly attributed to non-uniform distributions of particle contacts and particle interaction forces. There generally exists a bedding plane in assemblage of granular solids and different loading directions with respect to the bedding plane lead to different stress–strain responses [13, 16, 29]. Studies indicate that even the assemblage of spherical particles exhibit anisotropy. The non-coaxiality refers to the non-coincidence of principal stress directions and plastic strain rate directions when an assemblage of granular solids is subjected to loading paths involving principal stress rotations. Numerous test results indicate that the change of principal stress orientations without the change of their magnitudes can lead to plastic deformations, and the orientation of principal plastic strain rates is different from that for principal stresses.
 
 <figure align="center"> 
-<img src="/images/network-construction.png" width='100%'/><br>
+<img src="/images/non-coaxility.png" width='100%'/><br>
 </figure> 
 
-*Fig.1 Procedures to construct a contact network and a thermal network. Contact edges are in red, near-contact edges are in blue.*
-
-### Complex network theory
-- Centrality indicates the node position and the “significance” of a node in the network, with varying types of centrality defining this significance in distinct ways. Five metrics can be used to measure centrality.
-	- The degree of a node is measured as the number of edges linked to a node.
-	- Closeness centrality is a measure of the distance of a node to all others.
-	- Betweenness centrality characterises the importance of a node or an edge as the bridge between other nodes or edges in a network.
-	- Eigenvector centrality considers the contribution of nodes to the connectivity of the whole network and indicates the node which has wide-reaching influence in a network.
-
-- Network scale is a measure indicating the average distance of one node from another in a network.
-- A cycle in a network is a loop of edges that starts and ends at the same node. An l-cycle is a cycle containing l edges. 3-cycle in contact network can hint the rigidity of granular materials.
-- Clustering implies how integrated or fractured the overall network system is.
+Previous experimental studies of anisotropy and non-coaxiality by using the hollow cylindrical apparatus are mainly focused on granular soils, which feature irregular particle shapes and non-uniform particle size distributions. This paper experimentally investigates these two characteristics on assemblages of particulate materials with regular particle shapes and uniform particle sizes. These assemblages are made from spherical, cylindrical and cubical particles, with an increasing order of particle angularity. Two types of loading paths in the hollow cylindrical apparatus are applied. One is the monotonic loading path with a range of fixed angles of major principal stress with respect to the horizontal bedding plan, used to investigate the anisotropy of materials. The other is the path of pure principal stress rotations, used to study the non-coaxiality. The experimental results indicate that these three materials exhibit a strong anisotropy and non-coaxiality. Their stress–strain responses are dependent on the orientation of major principal stress. The non-coaxiality is a function of stress ratio. In addition, there is a noticeable trend that these two characteristics are dependent on the angularity of particles. The more angular the particles are, the greater anisotropy and non-coaxiality take place.
 
 <figure align="center"> 
-<img src="/images/network-features.png" width='100%'/><br>
+<img src="/images/HCA.png" width='100%'/><br>
 </figure> 
 
-*Fig.2 Example of the same contact network and its different centrality values for nodes: (a) Degree, (b) Closeness centrality, (c) Betweenness centrality and (d) Eigenvector centrality. Each definition of centrality highlights different significances of centrality at nodes. The colour shows the value of each feature, red means high value while blue represents low value.*
-
-### Complex network feature in granular materials
-
-<figure align="center"> 
-<img src="/images/network-features-visulisation.png" width='100%'/><br>
-</figure> 
-
-*Fig.3 Networks of the poly-disperse sample with porosity 0.246: (a) Contact network, (b) Thermal network. The colour at nodes represents the node weighted closeness centrality while the colour at edges represents the type of edge (red edges represent particle contacts while the blue edges represent near-contacts). The node size is scaled by particle radius.*
-
-### Advantage of complex network features
-
-Network features can resolve the unavailability of meso-scale characteristics of granular materials. Additionally, more new features can be achieved after weighting contact network by contact area or weighting thermal networks by thermal conductance. The new features have the merit of capturing more information: both the particle connectivity and contact quality, two essential properties to heat transfer. Therefore, it has stronger correlation with effective thermal conductivity of granular materials.
-
-<figure align="center"> 
-<img src="/images/network-features-thermal-conductivity.png" width='100%'/><br>
-</figure> 
-
-*Fig.4 The relationship between weighted degree from contact network and effective thermal conductivity (ETC) is stronger than that between porosity and ETC*
+*Fig.2 Hollow cylindrical apparatus*
