@@ -14,7 +14,7 @@ image:
 An alternative method to simulate heat transfer.
 <body>
 	<p align="left"> 
-	    <img src="/images/TCNM-visulisation.png"  width='100%'/><br>	    
+	    <img src="/images/TCNM-visulisation.png"  width='50%'/><br>	    
 	</p>
 </body>
 
