@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data science"
-excerpt: "What's data science? What are the tools of a data scientist?"
+excerpt: "What's data science? What are the tools that a data scientist use?"
 modified: 2018-06-22
 tags: [blog]
 comments: false
