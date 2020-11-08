@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-Two types of networks are constructed in this work. Contact networks are constructed to acquire the 3-cycles and cluster coefficients using complex network theory. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1) and it can be used to calculate the λ_eff by adding thermal conductance at the edges.
+Two types of networks are constructed in this work. In a contact network, each node indicates a particle and an edge connects two nodes when two particles are in contact. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1) and it can be used to calculate the λ<sub>eff</sub> by adding thermal conductance at the edges.
 
 <figure align="center"> 
 <img src="/images/network-construction.png" width='100%'/><br>
