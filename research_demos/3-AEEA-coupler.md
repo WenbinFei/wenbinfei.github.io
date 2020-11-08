@@ -39,6 +39,5 @@ The workflow of the AEEA-coupler is:
 
 
 **Please cite our relevant papers**  
-
 - **Fei WB**, Li Q, Wei XC, Song RR, Jing M, Li XC. Interaction analysis for CO2 geological storage and underground coal mining in Ordos Basin, China. Engineering geology 2015, 196:194-209, [doi](https://doi.org/10.1016/j.enggeo.2015.07.017). 
 - Li Q, **Fei W**, Ma J, Jing M, Wei X. Coupled CO2 Sequestration Simulation Using ABAQUS and ECLIPSE. Environmental Geotechnics 2019:1-12, [doi](https://www.icevirtuallibrary.com/doi/abs/10.1680/jenge.18.00036).
