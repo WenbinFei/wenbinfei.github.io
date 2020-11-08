@@ -16,8 +16,13 @@ Weighted coordination number can capture both particle connectivity and contact 
 **[The relationship between closeness centrality, local clustering coefficient and ETC](5-sphere-network-features.md)**  
 Closeness centrality and local clustering coefficient are good to predict thermal conductivity of sphere packings.
 
-**[Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks](4-rigidity.md)**  
-Particle shape and local clustering coefficient are good to predict thermal conductivity of granular materials under loading.
+**[Rigidity of sands and its impact on heat transfer](4-rigidity.md)**  
+Rigidity is qutified using complex network theofy. Particle shape and local clustering coefficient well relate to predict thermal conductivity of granular materials under loading.
+<body>
+	<p align="left"> 
+	    <img src="/images/particle-shape-framework.png"  width='100%'/><br>	    
+	</p>
+</body>
 
 **[3D Particle shape descriptors from CT images](2-particle-shape.md)**  
 Sphericity and roundness of every single particle in soil or rock samples
