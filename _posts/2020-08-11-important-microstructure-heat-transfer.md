@@ -20,7 +20,7 @@ Even though granular materials are complex systems and the complex network-based
 
 <body>
 	<p align="center"> 
-	    <img src="fig-mesh-fem.png"  width='100%'/><br>	    
+	    <img src="/images/fig-mesh-fem.png"  width='100%'/><br>	    
 	</p>
 </body>
 
