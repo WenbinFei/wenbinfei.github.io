@@ -16,35 +16,50 @@ image:
 
 
 
-My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. Now, I am working on the fluid flow and heat transfer in porous media at particle scale and laboratory scale using image processing and machine learning techniques. In order to finish my [PhD project](../research_demos/0-phd-project.md), I work as a Data Scientist to extract the features in geometerials and discover the relationship between various scales. During my master period, I coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at filed scale.
+### Academic Experience
+Currently, Wenbin is working as a Research Fellow at The University of Melbourne. He completed his PhD at The University of Melbourne in 2020, received an Master degree from the University of Chinese Academy of Sciences in 2014 and a Bachelor diploma from Chang‘an University, China in 2011.
 
-The outputs of my research can also be implemented for other engineering applications such as:
+#### Reserach
+My passion is to discover the mechanism of thermal–hydraulic–mechanical–chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. I have developed an platform to study the fluid flow and heat transfer in porous media at particle/pore scale using advanced techniques including image processing algorithms, complex network theory and machine learning techniques. For the development of the platform, I worked as a Data Scientist using tools such as pandas, opencv, networkx and graph-tool for data collection, scikit-learn and TensorFlow for data analysis, and matplitlib, seaborn and plotly for data visulisation. I also coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at large project scale.
 
-- In geothermal engineering, this project will guide the material selection of high-quality grout which requires high thermal conductivity and low hydraulic conductivity. 
+The outputs of my research can also be implemented for engineering applications such as:
+
+- In geothermal engineering, this project will guide the material selection of high-quality grout which requires high thermal conductivity, high mechanical capacity and low hydraulic conductivity. 
 - In nuclear waste disposal engineering, this project will help in the design of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
 - The results of this project will assist in predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
 
-Furthermore, I worked as a road engineer and have the experience of designing both urban roads and highways. My work also involved the design about sponge city. Now, I also working as a testing engineer which offer me a better understanding of what parameters are required for different engineering applications and how they are achieved.
+#### Teaching
+I have continued developing my teaching skills at the University of Melbourne. I have teaching and coordinating experience for two large postgraduate subjects: System Modelling and Design [CVEN90050] and Geotechnical Engineering [CVEN30010]. I participated in the subject design, assignments and exam design, budget allocation, learning management system design, exam questions design, tutorials, practical classes, consultations, marking and demonstrations for students.
 
-**Summary**
+### Industrial Experience
 
-I have the research experience on multi-physic of geomaterials at multi-scale as well as the working experience of a civil engineer.
+
+#### Testing Engineer at Bamford Rock Testing Services(BRTS), 2018 – 2020
+Bamford Rock Testing Services was established by Dr Bill Banford who is recognised as a world leader in the field of specialised rock testing. Dr Bamford is currently an honorary Principal Fellow and Associate Professor in the Melbourne School of Engineering at the University of Melbourne. His specialisations include rock mechanics, mine design, geotechnical engineering. He held the position of Vice-President for the International Society for Rock Mechanics for 8 years.
+
+I joined the team as a part-time testing engineer since 2018. This working experience not only strengthens my knowledge of the numerous rock testing methods for applications such as drilling, shafting, blastability, road headers, Trenching and Tunnel Boring Machines, but also nourish me with Australian and international standards as well as the management and operation of an Australian company.
+
+#### Geotechnical Engineer, China Railway Siyuan Survey and Design Group Co., LTD, 2014 - 2016
+
+The company belongs to China Railway Construction Group Corporation which ranks 54th among the world’s top 500 companies reported by Fortune in 2020. The company is famous for its contribution to the design and construction of Chinese high-speed railways and city metros. It established a new department to extend its business to the highway, municipal roads and port. In 2014, I worked with excellent senior engineers to design a highway and being trained in several large projects, which makes me grow fast and later become an independent designer and also enable me to grab an opportunity to be a leader of a geotechnical group of four members to design six municipal highway in Hainan island. In the projects, we pioneered the application of sponge city (permeable pavement and low impacted development drain) in China. We also pioneered the design of utility tunnels which combine utility lines such as electricity, fibre optics, cable television, and telephone cables, steam, water supply pipes, and sewer pipes.
+
+### Summary
+
+I have the research experience on multi-physic of geomaterials at multi-scale as well as the industrial experience of a civil engineer.
 
 - PhD Student (Infrastructure Engineering, Geotechnical Group), The University of Melbourne, Australia.
 - M.E., Civil Engineering, University of Chinese Academy of Sciences, China.
 - B.E., Geological Engineering, Chang’an University, China.
 - Testing Engineer, [Bamford Rock Testing Services](http://bamfordrocks.com.au/), Melbourne
-- Tutor, [System modelling and design](https://handbook.unimelb.edu.au/2017/subjects/cven30010), The University of Melbourne. 
+- Tutor and Coordinator, System modelling and design, Geotechnical Engineering, The University of Melbourne. 
 - Road Design Engineer, China Railway Siyuan Survey and Design Group Co., LTD.
 
-**Ask me about**
-- Image and surface mesh processing 
-- Data analysis 
-- Optimization 
-- Numerical simulation ([journal paper](https://doi.org/10.1016/j.enggeo.2015.07.017))
+### Ask me about
+- Imaging and post-porcessing 
 - Complex networks and machine learning 
-- Being a road (civil) engineer
-- Soil and rock tests ([journal paper](https://doi.org/10.1007/s10035-015-0551-7))
+- Numerical simulation (DEM, FEM, Network models)
+- Data analysis
+- Energy geotechnics, geotechnical engineering
 
 ---
 Click on a skill to read more about my experience, or 
@@ -57,14 +72,15 @@ Click on a skill to read more about my experience, or
 </span>
 . 
 
-- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Python</b></div><div id="p1" class="texter"> I start with Python for my master thesis since python is the script language of Abaqus. I adopted python to operate ABAQUS (a finite element software) and parse data of ECLIPSE (a petroleum software) so that they can transfer results sequentially. During my PhD, I need to apply Python for data analysis including  data tidying, data visualization, statistical analyses, machine learning, graph analytics, information retrieval. Libraries: numpy, scipy, pandas, scikit-learn, networkx, graphtool, matplotlib, seaborn, plotly. Tools: Jupyter, Spyder, regular expressions.<br /><br /></div>
+- <div onClick="openClose_skill('p1')" style="cursor:hand; cursor:pointer"><b>Python</b></div><div id="p1" class="texter"> I start with Python for my master thesis since python is the script language of Abaqus. I adopted python to operate ABAQUS (a finite element software) and parse data of ECLIPSE (a petroleum software) so that they can transfer results sequentially. During my PhD, I need to apply Python to develop a platform for data collection, data parsing, data visualization, statistical analyses, machine learning, graph analytics, information retrieval. Libraries: numpy, scipy, pandas, scikit-learn, TensoFlow, networkx, graph-tool, matplotlib, seaborn, plotly. 
+**IDE:** Sublime text integrting Anacoda and Vim, Jupyter Lab.<br /><br /></div>
 
-- <div onClick="openClose_skill('p2')" style="cursor:hand; cursor:pointer"><b>C++</b></div><div id="p2" class="texter"> My language of choice for speed. Used in some research projects for a home-made finite element simulation and image processing. Libraries: OpenCV, vcglib. Tools: Sublime, Visual Studio, CMake.<br /><br /></div>
+- <div onClick="openClose_skill('p2')" style="cursor:hand; cursor:pointer"><b>C++</b></div><div id="p2" class="texter"> My language of choice for speed. Used in some research projects for an inhouse finite element simulation and image processing. Libraries: OpenCV, vcglib. **Tools:** Visual Studio on Windows, Sublime text with CMake on Ubuntu.<br /><br /></div>
  
-- <div onClick="openClose_skill('p3')" style="cursor:hand; cursor:pointer"><b>Matlab</b></div><div id="p3" class="texter"> Choice for some build-in handy library, education and operating COMSOL (a finite element software).<br /><br /></div>
+- <div onClick="openClose_skill('p3')" style="cursor:hand; cursor:pointer"><b>Matlab</b></div><div id="p3" class="texter"> Choice for some build-in handy library and operating COMSOL (a finite element software).<br /><br /></div>
 
-- <div onClick="openClose_skill('p4')" style="cursor:hand; cursor:pointer"><b>VBA</b></div><div id="p4" class="texter"> Experience is limited to create simple interface for inputing data to home-made software. <br /><br /></div>
+- <div onClick="openClose_skill('p4')" style="cursor:hand; cursor:pointer"><b>VBA</b></div><div id="p4" class="texter"> Experience is limited to create simple interface for inputing data to in-house software. <br /><br /></div>
 
 - <div onClick="openClose_skill('p5')" style="cursor:hand; cursor:pointer">Other</div><div id="p5" class="texter">
-  <b>Markdown</b>: this website. <b>Unix</b>: bash, compilation. <b>Photoshop</b>, <b>iMovie</b>: image/video editing. <b>COMSOL</b>, <b>ABAQUS</b>, <b>ECLLIPSE</b>, <b>GeoStudio</b>: physics simulations during research and work. <b>Paraview</b>: physics visualizations during PhD. <b>Fiji/ImageJ</b>: image processing. Simpleware <b>ScanFE</b>: image processing and finite element meshing. <br /><br /></div>
+  <b>Markdown</b>: this website. <b>Unix</b>: bash, compilation. <b>Photoshop</b>, <b>COMSOL</b>, <b>ABAQUS</b>, <b>ECLLIPSE</b>, <b>GeoStudio</b>: physics simulations during research and work. <b>Paraview</b>: physics visualizations during PhD. <b>Fiji/ImageJ</b>: image processing. Simpleware <b>ScanFE</b>: image processing and finite element meshing. <br /><br /></div>
 ---
