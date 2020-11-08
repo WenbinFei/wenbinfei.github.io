@@ -18,6 +18,25 @@ We developed a toolbox to extract micro-structure features (data), analyze the r
     <img src="/images/psmp.jpg" width='100%'/><br>
 </body>
 
+### Industrial-level THMC numerical simulation
+A Thermo-Hydro-Chemical (THC) coupling process for multiphase flow in porous media is considered in ECLIPSE. The linker program “AEEA Coupler” then reads the information of locations and variables, such as temperature, pore pressure and saturation from ECLIPSE. Based on these data, the AEEA Coupler calculates the values of temperature and pore pressure and populates them for the finite element (FE) meshes that are used in ABAQUS. Then, ABAQUS is run for a Thermo-Hydro-Mechanical (THM) coupling analysis using the updated information, and new porosity, permeability and capillary pressure are obtained and used to update the values in the ECLIPSE through the AEEA Coupler.
+
+<body>
+	<p align="center"> 
+	    <img src="/images/AEEA-coupler-scheme.jpg" /><br>
+	    <b>Fig.1. Schematic diagram of the AEEA Coupler.</b>
+	</p>
+</body>
+
+The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphase flow is sequentially and explicitly considered between ABAQUS and ECLIPSE through the developed AEEA Coupler. First, a THC coupling analysis is conducted between t<sub>k</sub> and t<sub>k + 1</sub> in ECLIPSE, and its results are passed to ABAQUS in t<sub>k</sub>. Next, a THM coupling analysis is carried out between t<sub>k</sub> and t<sub>k + 1</sub> in ABAQUS, and the results of ABAQUS are passed back to ECLIPSE in t<sub>k + 1</sub> to perform the simulation for the next time step.
+
+<body>
+	<p align="center"> 
+	    <img src="/images/AEEA-coupler-steps.jpg" /><br>
+	    <b>Fig.2. Time steps and variables update in coupling analyses.</b>
+	</p>
+</body>
+
 ### My toolbox
 
 <body>
