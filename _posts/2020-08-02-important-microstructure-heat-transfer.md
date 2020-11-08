@@ -2,7 +2,7 @@
 layout: post
 title: "Why is microstructure important to heat transfer?"
 excerpt: "Particle-scale study of heat transfer in granular geomaterials"
-modified: 2020-08-11
+modified: 2020-08-02
 tags: [blog]
 comments: false
 ---
