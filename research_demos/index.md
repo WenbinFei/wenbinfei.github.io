@@ -59,7 +59,7 @@ AEEA coupler linking ABAQUA and ECLIPSE
 </body>
 
 **[Experimental study of anisotropy and non-coaxiality of granular solids](9-experiment-non-coaxiality.md)**  
-Experimental studies of anisotropy and non-coaxiality by using the hollow cylindrical apparatus
+by using the hollow cylindrical apparatus
 <body>
 	<p align="left"> 
 	    <img src="/images/non-coaxility.png"  width='70%'/><br>	    
