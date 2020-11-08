@@ -32,7 +32,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 The workflow of the AEEA-coupler is:
 <body>
 	<p align="center"> 
-	    <img src="/images/AEEA-coupler-workflow.png" /><br>
+	    <img src="/images/AEEA-coupler-workflow.png" width='70%'/><br>
 	    <b>Fig.3. Workflow of the AEEA-coupler.</b>
 	</p>
 </body>
