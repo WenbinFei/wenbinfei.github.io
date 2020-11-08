@@ -7,6 +7,10 @@ tags: [blog]
 comments: false
 ---
 
+<p align="center"> 
+<img src="../images/Austrailian-synchrotron.png" width='90%'/><br>
+</p>
+
 Geometries of granular materials can be digitalised as images using imaging techniques. Then, the samples can be virtually reconstructed to compute particle size, shape and other microstructural variables. Some imaging techniques are summarised in the Table below. Among them, CT has become the most prevalent one to achieve 3D morphological information of granular materials. It currently acts as a mean to characterise specimen heterogeneity, to visualise multiphase flow, and to track shear deformation and fracture characteristics. However, only a few studies have used this 3D information to ‘mine’ or extract and fundamentally understand other key geomaterial properties.
 
 **Table Overview of image techniques**  
@@ -31,11 +35,3 @@ Geometries of granular materials can be digitalised as images using imaging tech
 
 **Acknowledge Australian Synchrotron**  
 Wenbin succeeded in applying for a grant from Australian Synchrotron [AS1/IMBL/15795] to conduct 48 hours (Equivalent AUD 65,568) of CT scanning in February 2020.
-
-<p align="center"> 
-<img src="../images/Austrailian-synchrotron.png" width='90%'/><br>
-<b>Fig.2 My python toolbox for data analysis</b>
-</p>
-
-
-
