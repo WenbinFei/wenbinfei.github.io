@@ -20,13 +20,14 @@ image:
 Wenbin is working as a Research Fellow at The University of Melbourne after completing his PhD at the same University in 2020, received an Master degree from the University of Chinese Academy of Sciences in 2014 and a Bachelor diploma from Chang‘an University, China in 2011.
 
 #### Reserach
-Wenbin discovers the mechanism of Thermal–Hydraulic–Mechanical–Chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. he has developed an platform to study THMC in porous media at particle/pore scale using advanced techniques including image processing algorithms, complex network theory and machine learning techniques. For the development of the platform, I worked as a Data Scientist using tools such as pandas, opencv, networkx and graph-tool for data collection, scikit-learn and TensorFlow for data analysis, and matplitlib, seaborn and plotly for data visulisation. I also coupled ABAQUS and ECLIPSE to simulate the THMC process of Carbon Dioxide Storage at large project scale.
+Wenbin discovers the mechanism of Thermal–Hydraulic–Mechanical–Chemical (THMC) process in geomaterials at multi-scale, then apply the findings to engineering applications. he has developed an platform to study THMC in porous media at particle/pore scale using advanced techniques including image processing algorithms, complex network theory and machine learning techniques. For the development of the platform, I worked as a Data Scientist using tools such as pandas, opencv, networkx and graph-tool for data collection, scikit-learn and TensorFlow for data analysis, and matplitlib, seaborn and plotly for data visulisation. I also coupled ABAQUS and ECLIPSE to simulate the THMC process of a Carbon Dioxide Geological Storage project in the Ordos basin which is widely known as the “coal sea” in northern China.
 
-The outputs of my research can also be implemented for engineering applications such as:
+The outputs of my research can be implemented for engineering applications such as:
 
-- In geothermal engineering, this project will guide the material selection of high-quality grout which requires high thermal conductivity, high mechanical capacity and low hydraulic conductivity. 
-- In nuclear waste disposal engineering, this project will help in the design of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
-- The results of this project will assist in predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
+- In geothermal engineering, for material selection of high-quality grout which requires high thermal conductivity, high mechanical capacity and low hydraulic conductivity. 
+- Energy structure (i.e. energy tunnel and energy piles), for conomically viable and environmentally sustainable sturcutures with thermal functionality.
+- In nuclear waste disposal engineering, for designing of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
+- My research will assist in predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
 
 #### Teaching
 Wenbin has teaching and coordinating experience for two large postgraduate subjects: System Modelling and Design [CVEN90050] and Geotechnical Engineering [CVEN30010]. I participated in the subject design, assignments and exam design, budget allocation, learning management system design, exam questions design, tutorials, practical classes, consultations, marking and demonstrations for students.
