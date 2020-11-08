@@ -22,7 +22,7 @@ Anisotropy and non-coaxiality are two important characteristics of particulate m
 Previous experimental studies of anisotropy and non-coaxiality by using the hollow cylindrical apparatus are mainly focused on granular soils, which feature irregular particle shapes and non-uniform particle size distributions. This paper experimentally investigates these two characteristics on assemblages of particulate materials with regular particle shapes and uniform particle sizes. These assemblages are made from spherical, cylindrical and cubical particles, with an increasing order of particle angularity. Two types of loading paths in the hollow cylindrical apparatus are applied. One is the monotonic loading path with a range of fixed angles of major principal stress with respect to the horizontal bedding plan, used to investigate the anisotropy of materials. The other is the path of pure principal stress rotations, used to study the non-coaxiality. The experimental results indicate that these three materials exhibit a strong anisotropy and non-coaxiality. Their stress–strain responses are dependent on the orientation of major principal stress. The non-coaxiality is a function of stress ratio. In addition, there is a noticeable trend that these two characteristics are dependent on the angularity of particles. The more angular the particles are, the greater anisotropy and non-coaxiality take place.
 
 <figure align="center"> 
-<img src="/images/HCA.png" width='100%'/><br>
+<img src="/images/HCA.png" width='70%'/><br>
 </figure> 
 
 *Fig.2 Hollow cylindrical apparatus*
