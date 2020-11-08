@@ -41,10 +41,7 @@ As an alternative to the watershed algorithm, a machine learning tool named _Tra
 
 **Please cite our papers below related to CT imaging**
 
-- **Fei W**, Narsilio GA. Impact of Three-Dimensional Sphericity and Roundness on Coordination Number. Journal of Geotechnical and Geoenvironmental Engineering 2020, 146:06020025, [doi](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002389).
-
-- **Fei W**, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).
-
-- **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514).
-
+- **Fei W**, Narsilio GA. Impact of Three-Dimensional Sphericity and Roundness on Coordination Number. Journal of Geotechnical and Geoenvironmental Engineering 2020, 146:06020025, [doi](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002389).  
+- **Fei W**, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773).  
+- **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Quantifying the impact of rigid interparticle structures on heat transfer in granular materials using networks. International Journal of Heat and Mass Transfer 2019, 143:118514, [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2019.118514).  
 - **Fei W**, Narsilio GA, Disfani MM. Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder Technology 2019, 355:770-781, [doi](https://doi.org/10.1016/j.powtec.2019.07.094).
