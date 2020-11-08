@@ -9,6 +9,12 @@ comments: false
 
 Images are required to remove artefacts and be processed with multiple algorithms for different purposes such as achieving different phases or individual particles.
 
+<body>
+	<p align="center"> 
+	    <img src="/images/image-processing.png"  width='90%'/><br>	    
+	</p>
+</body>
+
 ### CT artefacts
 
 CT images directly achieved in the field may have artefacts including ring artefact, noise, beam hardening, scatter, metal artefact, pseudo-enhancement, cone beam and motion etc. . Ring artefact and noise are two common artefacts in the CT images from granular materials in this study.
@@ -42,10 +48,3 @@ As an alternative to the watershed algorithm, a machine learning tool named _Tra
 
 - **Fei W**, Narsilio GA, Disfani MM. Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder Technology 2019, 355:770-781, [doi](https://doi.org/10.1016/j.powtec.2019.07.094).
 
-Wenbin succeeded in applying for a grant from Australian Synchrotron [AS1/IMBL/15795] to conduct 48 hours (Equivalent AUD 65,568) of CT scanning in February 2020.
-
-<body>
-	<p align="center"> 
-	    <img src="/images/image-processing.png"  width='90%'/><br>	    
-	</p>
-</body>
