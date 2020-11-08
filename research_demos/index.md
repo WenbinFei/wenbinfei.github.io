@@ -22,6 +22,14 @@ Particle shape and local clustering coefficient are good to predict thermal cond
 **[Three dimensional (3D) Particle shape descriptors computation based on Computed Tomography (CT) images](2-particle-shape.md)**  
 Sphericity and roundness of every single particle in soil or rock samples
 
+**[Finite element simulation of heat transfer based on CT image](1-FEM-heat-transfer.md)**  
+Generate mesh based on CT images and do simulation.
+<body>
+	<p align="center"> 
+	    <img src="/images/FEM-heat-transfer.png"  width='50%'/><br>	    
+	</p>
+</body>
+
 **[THMC numerical simulation for complex industrial projects](3-AEEA-coupler.md)**  
 AEEA coupler linking ABAQUA and ECLIPSE
 <body>
