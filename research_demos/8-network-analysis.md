@@ -50,7 +50,7 @@ A network is a collection of nodes that are linked by edges. Different networks 
 
 ### Advantage of complex network features
 
-Network features can resolve the unavailability of meso-scale characteristics of granular materials. Additionally, more new features can be achieved after weighting contact network by contact area or weighting thermal networks by thermal conductance. The new features have the merit of capturing more information: both the particle connectivity and contact quality, two essential properties to heat transfer. Therefore, it has stronger correlation with effective thermal conductivity of granular materials.
+Network features can resolve the unavailability of meso-scale characteristics of granular materials. Additionally, more new features can be achieved after weighting contact networks by contact area or weighting thermal networks by thermal conductance. The new features have the merit of capturing more information: both the particle connectivity and contact quality, two essential properties to heat transfer. Therefore, it has stronger correlation with effective thermal conductivity of granular materials.
 
 <figure align="center"> 
 <img src="/images/network-features-thermal-conductivity.png" width='100%'/><br>
