@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-There are numerous definition of particle shape descriptors, but it is necessary to select proper descriptors carefully. I compared several equations of 3D particle shape descriptors in paper:
+There are numerous definitions of particle shape descriptors, but it is necessary to select proper descriptors carefully. I compared several equations of 3D particle shape descriptors in paper:
 
 **Fei W, Narsilio GA, Disfani MM. Impact of three-dimensional sphericity and roundness on heat transfer in granular materials. Powder Technology 2019, 355:770-781, [doi](https://doi.org/10.1016/j.powtec.2019.07.094)** 
 
@@ -24,7 +24,7 @@ Then I determined to use the following equation:
 
 *Fig.1 Equations of 3D particle shape descriptors*
 
-A framework developed to calculate the above sphericity and roundness and their on effective thermal conductivity can be quantified..
+A framework was developed to calculate the above sphericity and roundness. Their correlation with effective thermal conductivity can also be quantified..
 
 <body>
 	<p align="left"> 
