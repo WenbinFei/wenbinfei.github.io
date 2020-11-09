@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-A representative element volumes (REVs) of dimensions 4.55 × 4.55 × 4.55 mm (320 grains in Ottawa sand as an example) was selected from the CT images. As shown in Fig. 1, the geometry of each subsample was reconstructed based on these CT images. The solid and pore phases were then split using the widely accepted Otsu threshold segmentation. The thermal conductivity of the solid used in this paper was 3 W/(m K), while that of air in the pore spaces was taken as 0.025 W/(m K). Reconstruction and segmentation were completed using Simpleware ScanIP with a further meshing step. The mesh was then imported to a FEM software application called COMSOL Multiphysics to simulate heat transfer. 
+A representative element volumes (REVs) of dimensions 4.55 × 4.55 × 4.55 mm (320 grains in Ottawa sand as an example) was selected from the CT images. As shown in Fig. 1, the geometry of a REV was reconstructed based on these CT images. The solid and pore phases were then split using the widely accepted Otsu threshold segmentation. The thermal conductivity of the solid used in this paper was 3 W/(m K), while that of air in the pore spaces was taken as 0.025 W/(m K). Reconstruction and segmentation were completed using Simpleware ScanIP with a further meshing step. The mesh was then imported to a FEM software application called COMSOL Multiphysics to simulate heat transfer. 
 
 <figure align="center"> 
 <img src="/images/FEM-heat-transfer.png" width='100%'/><br>
