@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Wenbin Fei
+title: Dr Wenbin Fei
 tags: [wenbin, civil engineer, machine learning, scientific computing, porous media simulation, chinese]
 modified: 
 comments: false
