@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-Two types of networks are constructed in this work. In a contact network, each node indicates a particle and an edge connects two nodes when two particles are in contact. Thermal networks are extensions of the contact networks that also consider near-contacts as edges (Fig. 1) and it can be used to calculate the λ<sub>eff</sub> by adding thermal conductance at the edges.
+In a contact network, each node indicates a particle and an edge connects two nodes when two particles are in contact. A thermal networks is an extension of the contact network. It also considers near-contacts as edges (Fig. 1) and it can be further used to calculate the effective thermal conductivity λ<sub>eff</sub> by adding thermal conductance at the edges.
 
 <figure align="center"> 
 <img src="/images/network-construction.png" width='100%'/><br>
