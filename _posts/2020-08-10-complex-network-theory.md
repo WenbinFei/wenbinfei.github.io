@@ -10,10 +10,10 @@ A network is a collection of nodes that are linked by edges. Different networks 
 
 Then what is complex network theory? Complex network theory provides you the knowledge to quantify the network or the importance of individual nodes and edges in a network. Let’s take a community for example, how to know who is important?
 
-- Person A says that he is important since more people knows him. In complex network theory, the feature A uses is degree based on the amount.
-- Person B says that the mates live close to him. In complex network theory, the feature B uses is closeness centrality based on the distance. 
-- Person C say that the queen is my friend. Of course, your friend is more important, you are more important. This is called eigenvector centrality which also considering the importance of the neighbouring nodes.
-- Person D says that I own FaceBook and people rely on him to maintain relationship online. This is betweenness centrality evaluate the role of a node or an edge as a 'bridge'.
+- Person A says that he is important since more people knows him. In complex network theory, the feature that person A uses is degree based on the amount.
+- Person B says that the mates live close to him. In complex network theory, the feature that person B uses is closeness centrality based on the distance. 
+- Person C say that the Queen is my friend. Of course, your friend is more important, you are more important. This is called eigenvector centrality which considers the importance of the neighbouring nodes.
+- Person D says that he owns FaceBook and people rely on him to maintain relationship. This is betweenness centrality to evaluate the role of a node or an edge acting as a 'bridge'.
 
 <body>
 	<p align="center"> 
@@ -21,7 +21,7 @@ Then what is complex network theory? Complex network theory provides you the kno
 	</p>
 </body>
 
-The network can also be weighted by an attribute. For example, the interpersonal relationship is related to the time they know each other. I use weighted network features to study heat transfer and mechanical response in granular materials.
+The network can also be weighted by an attribute. For example, the interpersonal relationship is related to the time they know each other. I use weighted network features (weighted by contact area and thermal conductance) to study heat transfer and mechanical response in granular materials.
 
 <body>
 	<p align="center"> 
