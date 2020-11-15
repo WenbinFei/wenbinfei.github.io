@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Image date types"
+title: "Image data types"
 excerpt: "What do unit8, unit16... mean?"
 modified: 2020-11-15
 tags: [blog]
 comments: false
 ---
-Many ways to process images in Python.
+Some image types are shown as below:
  
 - uint8 = 0 to 255  
 - uint16 = 0 to 65535  
