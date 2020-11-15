@@ -29,7 +29,7 @@ scikit image is an image processing library that includes algorithms for segment
 ### Opencv
 openCV is a library of programming functions mainly aimed at computer vision. Very good for images and videos, especially real time videos. It is used extensively for facial recognition, object recognition, motion tracking, optical character recognition, segmentation, and even for artificial neural netwroks. 
 
-You can import images in color, grey scale or unchanged usingindividual commands 
+You can import images in color, grey scale or unchanged using individual commands 
 - cv2.IMREAD_COLOR : Loads a color image. Any transparency of image will be neglected. It is the default flag.
 - cv2.IMREAD_GRAYSCALE : Loads image in grayscale mode
 - cv2.IMREAD_UNCHANGED : Loads image as such including alpha channel  
