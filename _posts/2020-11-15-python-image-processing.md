@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image processing in Python"
-excerpt: "Brief several python libraries for image processing"
+excerpt: "Python libraries for image processing"
 modified: 2020-11-15
 tags: [blog]
 comments: false
