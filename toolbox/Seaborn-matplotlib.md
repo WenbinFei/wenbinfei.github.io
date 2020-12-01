@@ -15,7 +15,7 @@ Click to visit the [Seaborn](https://seaborn.pydata.org/#) and [Matplotlib](http
 
 The manuscript of journal paper usually has a page width of 16 cm. As the final article has two columns, the figure for one column will have a width of 8 cm while the figure accrossing two columns will have a width of 16 cm.
 
-**Set font size and figure style**
+## Set font size and figure style
 ```
 from matplotlib import rc
 rc={'font.size':10, 
@@ -35,27 +35,17 @@ sns.set_style("ticks", {'axes.edgecolor': 'k',
 rcParams.update({'figure.autolayout': False})
 ```
 
-**Set font size separately if you want to change it later**
+### Set font size separately if you want to change it later
 ```
 ax.set_xlabel('$[G^c]_{P_w}$', fontsize = 16)
 ax.set_ylabel('$\lambda_{eff} / \lambda_{solid}$', fontsize = 16)
 ax.tick_params(axis="both", labelsize=16)
 ```
 
-**Set tick**
-```
-ax.set_xticks([1,4,5]) 
-ax.set_xticklabels([1,4,5], fontsize=12)
-```
-
-**Change font size**  
+### Scale font size 
 ``sns.set(font_scale=2)``
 
-
-**Change tick label size and direction**  
-``plt.xticks(fontsize=12, rotation=0)``
-
-**Set figure size**
+## Set figure size
 ```
 fig, ax = plt.subplots(1,1,figsize=(6,4))
 ```
@@ -65,10 +55,48 @@ Here, the unit of figure size is inches. So the
 8\*8 cm     = 3.15\*3.15 inch,  
 8\*5.3 cm   = 3.15\*2.1 inch.
 
+In jupyter notebook, I always use 6,4 and the font size set as 15. 
 
-In jupyter notebook, I always use 6,4 and the font size set as 15.
+If you want to show the figures larger in jupyter book and still good for journal paper, using the figsize=(8,6) and font size = 14. Furthermore, if you want three figures in a row, use figsize=(6,4.5) and font size =  22 or 24.
 
-**Set the location of legend**
+## Save figure
+```
+fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', 
+            format='eps', bbox_inches='tight', 
+            dpi=500)
+fig.savefig(fig_dir + 'thermal-conductivity-validation.png', 
+            format='png', 
+            bbox_inches='tight', 
+            dpi=500)
+```
+Sometimes, these sentence should be in the same cell of your plot when drawing graphs in Jupyter.
+
+## Labels in axis
+### Used scientific format in the axis
+```
+ax.ticklabel_format (axis='x', 
+                     style='sci',
+                     scilimits=(0,0), 
+                     useOffset=False, 
+                     seMathText=True)
+Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
+```
+
+## Set tick
+```
+ax.set_xticks([1,4,5]) 
+ax.set_xticklabels([1,4,5], fontsize=12)
+```
+### Change tick label size and direction 
+``plt.xticks(fontsize=12, rotation=0)``
+
+## Legend
+### Remove the legend title in seaborn plotting
+```
+handles, labels = ax.get_legend_handles_labels()
+ax.legend(handles=handles[1:], labels=labels[1:])
+```
+### Set the location of legend
 - To use the built-in str or floats
 
 Location String	Location Code
@@ -110,51 +138,56 @@ fig.legend([line1], ['series1'], bbox_to_anchor=[0.5, 0.5], loc='center right')
 ```
  The first command will put the center of the bounding box at axes coordinates 0.5,0.5. The second will put the center left edge of the bounding box at the same coordinates (i.e. shift the legend to the right). Finally, the third option will put the center right edge of the bounding box at the coordinates (i.e. shift the legend to the left).
 
-**Change the colume of legend**
+### Change the colume of legend
 ```
 ax.legned(ncol=)
 ```
 
-**Save figure**
-```
-fig.savefig(fig_dir + 'thermal-conductivity-validation.eps', 
-            format='eps', bbox_inches='tight', 
-            dpi=500)
-fig.savefig(fig_dir + 'thermal-conductivity-validation.png', 
-            format='png', 
-            bbox_inches='tight', 
-            dpi=500)
-```
-Sometimes, these sentence should be in the same cell of your plot when drawing graphs in Jupyter.
-
-**Used scientific format in the axis**
-```
-ax.ticklabel_format (axis='x', 
-                     style='sci',
-                     scilimits=(0,0), 
-                     useOffset=False, 
-                     seMathText=True)
-Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
-```
-
-**Change the range of colorbar**
+## Colorbar
+### Change the range of colorbar
 ```
 plt.clim(0,13)
 ```
-
-**Change the tick font size in colorbar**
+### Change the tick intervals of colorbar
+```
+cb = plt.colorbar()
+cb.set_ticks([0.75, 1.25, 1.75])
+```  
+or  
+`cb.ax.locator_params(nbins=3)`  
+### Change the tick font size in colorbar
 ```
 cb = plt.colorbar()
 cb.ax.tick_params(labelsize=tick_font_size)
 ```
+### Change the label colorbar
+```
+cb = plt.colorbar()
+cb.ax.set_ylabel('$G^T_{k_w}$ (mm$^2$)',  size = label_font_size)
+```
+## Colour
+### Seaborn
+https://seaborn.pydata.org/tutorial/color_palettes.html  
+<p align="center"> 
+<img src="../images/seaborn-color-basic.png" width='50%'/><br>
+</p>
 
-**Remove the legend title in seaborn plotting**
-```
-handles, labels = ax.get_legend_handles_labels()
-ax.legend(handles=handles[1:], labels=labels[1:])
-```
+### matplotlib
+colour  
+https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+cmap  
+https://matplotlib.org/examples/color/colormaps_reference.html
 
-**Change tick interval**
-```
-ax.set_yticks(list(np.arange(0.05,0.38,0.1)))
-```
+## Marker
+https://matplotlib.org/3.1.1/api/markers_api.html
+
+## Line styles
+<p align="center"> 
+<img src="../images/matplotlib-line-styles.jpg" width='50%'/><br>
+</p>
+
+You can also set the density of the dot/dash
+https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/linestyles.html
+
+
+
