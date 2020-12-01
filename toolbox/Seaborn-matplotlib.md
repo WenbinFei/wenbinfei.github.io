@@ -108,10 +108,13 @@ Labeloffset(ax, label='$[G^c]_{B_n^{edge}}$', axis="x")
 ```
 
 ## Set tick
+### Tick interval
 ```
 ax.set_xticks([1,4,5]) 
 ax.set_xticklabels([1,4,5], fontsize=12)
 ```
+or  
+`ax.set_yticks(list(np.arange(0.4,0.81,0.2)))`
 ### Change tick label size and direction 
 ``plt.xticks(fontsize=12, rotation=0)``
 
