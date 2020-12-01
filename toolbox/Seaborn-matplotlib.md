@@ -15,6 +15,31 @@ Click to visit the [Seaborn](https://seaborn.pydata.org/#) and [Matplotlib](http
 
 The manuscript of journal paper usually has a page width of 16 cm. As the final article has two columns, the figure for one column will have a width of 8 cm while the figure accrossing two columns will have a width of 16 cm.
 
+**Content**
+- [Set font size and figure style](#set-font-size-and-figure-style)
+  * [Set font size separately if you want to change it later](#set-font-size-separately-if-you-want-to-change-it-later)
+  * [Scale font size](#scale-font-size)
+- [Set figure size](#set-figure-size)
+- [Save figure](#save-figure)
+- [Labels in axis](#labels-in-axis)
+  * [Used scientific format in the axis](#used-scientific-format-in-the-axis)
+- [Set tick](#set-tick)
+  * [Change tick label size and direction](#change-tick-label-size-and-direction)
+- [Legend](#legend)
+  * [Remove the legend title in seaborn plotting](#remove-the-legend-title-in-seaborn-plotting)
+  * [Set the location of legend](#set-the-location-of-legend)
+  * [Change the colume of legend](#change-the-colume-of-legend)
+- [Colorbar](#colorbar)
+  * [Change the range of colorbar](#change-the-range-of-colorbar)
+  * [Change the tick intervals of colorbar](#change-the-tick-intervals-of-colorbar)
+  * [Change the tick font size in colorbar](#change-the-tick-font-size-in-colorbar)
+  * [Change the label colorbar](#change-the-label-colorbar)
+- [Colour](#colour)
+  * [Seaborn](#seaborn)
+  * [matplotlib](#matplotlib)
+- [Marker](#marker)
+- [Line styles](#line-styles)
+
 ## Set font size and figure style
 ```
 from matplotlib import rc
@@ -173,21 +198,18 @@ https://seaborn.pydata.org/tutorial/color_palettes.html
 </p>
 
 ### matplotlib
-colour  
-https://matplotlib.org/3.1.0/gallery/color/named_colors.html
-cmap  
-https://matplotlib.org/examples/color/colormaps_reference.html
+Explore colour by [clicking here](https://matplotlib.org/3.1.0/gallery/color/named_colors.html)  
+Explore cmap by [clicking here](https://matplotlib.org/examples/color/colormaps_reference.html)
 
 ## Marker
-https://matplotlib.org/3.1.1/api/markers_api.html
+Explore marker by [clicking here](https://matplotlib.org/3.1.1/api/markers_api.html)
 
 ## Line styles
 <p align="center"> 
 <img src="../images/matplotlib-line-styles.jpg" width='50%'/><br>
 </p>
 
-You can also set the density of the dot/dash
-https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/linestyles.html
+You can also set the density of the dot/dash. [Click here](https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/linestyles.html)
 
 
 
