@@ -195,7 +195,7 @@ cb.ax.set_ylabel('$G^T_{k_w}$ (mm$^2$)',  size = label_font_size)
 Explore Seaborn colour by [clicking here](https://seaborn.pydata.org/tutorial/color_palettes.html)
 
 <p align="center"> 
-<img src="../images/seaborn-color-basic.png" width='50%'/><br>
+<img src="/images/seaborn-color-basic.png" width='50%'/><br>
 </p>
 
 ### matplotlib
@@ -207,9 +207,11 @@ Explore marker by [clicking here](https://matplotlib.org/3.1.1/api/markers_api.h
 
 ## Line styles
 
+<body>
 <p align="center"> 
-<img src="../images/matplotlib-line-styles.jpg" width='50%'/><br>
+<img src="/images/matplotlib-line-styles.jpg" width='50%'/><br>
 </p>
+</body>
 
 You can also set the density of the dot/dash. [Click here](https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/linestyles.html)
 
