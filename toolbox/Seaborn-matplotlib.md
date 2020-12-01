@@ -192,7 +192,8 @@ cb.ax.set_ylabel('$G^T_{k_w}$ (mm$^2$)',  size = label_font_size)
 ```
 ## Colour
 ### Seaborn
-https://seaborn.pydata.org/tutorial/color_palettes.html  
+Explore Seaborn colour by [clicking here](https://seaborn.pydata.org/tutorial/color_palettes.html)
+
 <p align="center"> 
 <img src="../images/seaborn-color-basic.png" width='50%'/><br>
 </p>
@@ -205,6 +206,7 @@ Explore cmap by [clicking here](https://matplotlib.org/examples/color/colormaps_
 Explore marker by [clicking here](https://matplotlib.org/3.1.1/api/markers_api.html)
 
 ## Line styles
+
 <p align="center"> 
 <img src="../images/matplotlib-line-styles.jpg" width='50%'/><br>
 </p>
