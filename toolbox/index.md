@@ -56,7 +56,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 - **[Sublime Text](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
 
 #### Data science toolbox
-- **[Seaborn & Matplotlib: Q & A](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
+- **[Seaborn & Matplotlib-Q & A](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
 
 #### Image Processing
 - **[ImageJ](imagej.md)**: ImageJ is a free software that used to deal with CT images.
