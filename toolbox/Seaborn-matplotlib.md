@@ -43,7 +43,8 @@ The manuscript of journal paper usually has a page width of 16 cm. As the final 
 ## Set font size and figure style
 ```
 from matplotlib import rc
-rc={'font.size':10, 
+rc={'font.size' : 10, 
+    'font.family' : 'Arial',
     'axes.labelsize': 10,   
     'legend.fontsize': 10, 
     'axes.titlesize': 10, 
@@ -55,8 +56,7 @@ sns.set_style("ticks", {'axes.edgecolor': 'k',
                         'axes.grid': False,
                         'xtick.major.width': 1,
                         'ytick.major.width': 1})
-# rc('text', usetex=True)
-# rc('font', family = 'Arial')
+
 rcParams.update({'figure.autolayout': False})
 ```
 
@@ -221,5 +221,8 @@ Explore marker by [clicking here](https://matplotlib.org/3.1.1/api/markers_api.h
 
 You can also set the density of the dot/dash. [Click here](https://matplotlib.org/3.3.3/gallery/lines_bars_and_markers/linestyles.html)
 
-
+## Latex
+### Remove Italic
+use \mathrm  
+`'SR$_\mathrm{ave}$'`
 
