@@ -115,6 +115,9 @@ ax.set_xticklabels([1,4,5], fontsize=12)
 ```
 or  
 `ax.set_yticks(list(np.arange(0.4,0.81,0.2)))`
+or  
+`plt.locator_params(axis='y', nbins=4)`
+
 ### Change tick label size and direction 
 ``plt.xticks(fontsize=12, rotation=0)``
 
