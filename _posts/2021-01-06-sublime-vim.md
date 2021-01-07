@@ -148,6 +148,7 @@ _*_|set find all word & find next
 
 Key | Description
 ---|---
+**r**|replace single character
 **x**|delete single character 
 **X** | delete _previous_ single character
 **d**|delete (cuts)
@@ -160,8 +161,7 @@ _num_ **dd** | deletes _num_ lines
 **dit**|delete inner tag content
 **y**|yank (copy) selection
 **yiw**|yank (copy) the current word
-**yy**|yank entire line
-**r**|replace single character 
+**yy**|yank entire line 
 **p**| paste after cursor
 **P** |paste before cursor
 **d** _num_ <kbd>Enter</kbd> | deletes _num_ lines from current position in line to current position <br> (not entire line)
