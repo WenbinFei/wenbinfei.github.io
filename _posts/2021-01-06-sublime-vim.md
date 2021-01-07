@@ -148,6 +148,8 @@ _*_|set find all word & find next
 
 Key | Description
 ---|---
+**x**|delete single character 
+**X** | delete _previous_ single character
 **d**|delete (cuts)
 **dd**|delete (cuts) entire line
 **D**| delete until the end of the line
@@ -159,9 +161,7 @@ _num_ **dd** | deletes _num_ lines
 **y**|yank (copy) selection
 **yiw**|yank (copy) the current word
 **yy**|yank entire line
-**r**|replace single character (stays in **command** mode)
-**x**|delete single character (stays in **command** mode)
-**X** | delete _previous_ single character
+**r**|replace single character 
 **p**| paste after cursor
 **P** |paste before cursor
 **d** _num_ <kbd>Enter</kbd> | deletes _num_ lines from current position in line to current position <br> (not entire line)
