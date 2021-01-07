@@ -47,6 +47,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 </body>
 
 ### My toolbox
+#### Overview
 
 <body>
     <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" /><br>
@@ -62,7 +63,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 #### Editors
 - **[Markdown](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
 
-- **[Sublime Text](../_posts/2021-01-06-sublime-vim.md)**: A sophisticated text editor for code, markup and prose. Vim is avaliable in Vintage mode.
+- **[Sublime Text with vim](../_posts/2021-01-06-sublime-vim.md)**: A sophisticated text editor for code, markup and prose. Vim is avaliable in Vintage mode.
 
 #### Data science toolbox
 - **[Seaborn & Matplotlib-Q & A](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
@@ -72,4 +73,4 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 
 #### Others
 - **[Git](Git.md)**: Git is a distributed version control system for tracking changes in source code when developing software.
-- **[OpenMP](_posts/2021-01-07-OpenMP.md)**: An API specification for parallel programming.
+- **[OpenMP](../_posts/2021-01-07-OpenMP.md)**: An API specification for parallel programming.
