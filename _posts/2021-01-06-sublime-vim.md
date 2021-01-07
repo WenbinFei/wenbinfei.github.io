@@ -7,6 +7,21 @@ tags: [blog]
 comments: false
 ---
 Vintage mode in Sublime text provide the vim enviroment.
+
+- [Enable vintage mode](#enable-vintage-mode)
+- [Vim cheat sheet](#vim-cheat-sheet)
+  * [Navigation](#navigation)
+  * [Bookmark](#bookmark)
+  * [Insert mode](#insert-mode)
+  * [Selecting](#selecting)
+  * [Undo/Redo](#undo-redo)
+  * [Finding](#finding)
+  * [Delete/Copy/Paste](#delete-copy-paste)
+  * [Format](#format)
+- [Sublime shortcuts](#sublime-shortcuts)
+  * [General](#general)
+  * [Split window](#split-window)
+
 # Enable vintage mode
 In Preferences>Setting>User, add the following codes  
 ```
@@ -73,19 +88,19 @@ _n_**gg** | Goto line _n_
 <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>F2</kbd>|Clear all bookmarks
 
 ## Insert mode
-Key | Description
----|---
-**s**|delete character under cursor
-**i**|Insert infront cursor
-**a**|Append after cursor
-**I** | Insert infront of line (tip: _left_ shift indicates direction)
-**A** | Append after line end (tip: _right_ shift indicates direction)
-**o** | Open newline below
-**O** | Open newline above (tip: shift &#8679;)
-**c**|Change/cut (i.e. cw = deletes word)
-**caw**|Change/cut all word 
-**cc**|Change/cut entire line
-**ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has to be within for parenthses)
+|Key | Description|
+|---|---|
+|**s**|delete character under cursor|
+|**i**|Insert infront cursor|
+|**a**|Append after cursor|
+|**I** | Insert infront of line (tip: _left_ shift indicates direction)|
+|**A** | Append after line end (tip: _right_ shift indicates direction)|
+|**o** | Open newline below|
+|**O** | Open newline above (tip: shift &#8679;)|
+|**c**|Change/cut (i.e. cw = deletes word)|
+|**caw**|Change/cut all word |
+|**cc**|Change/cut entire line|
+|**ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has |to be within for parenthses)|
 
 ## Selecting 
 Key | Description
@@ -114,7 +129,7 @@ Key | Description
 **t**_x_|'til _x_ but land **before** it (current line only)
 **T**_x_ | Jump back 'til _x_ (opposite of above, current line only)
 **/**|enter find
-*|set find all word & find next
+_*_|set find all word & find next
 **n**|find next, alternatively using <kbd>F3</kbd>
 **N**|find previous alternatively using <kbd>Shift</kbd> + <kbd>F3</kbd>
 **/**|enter find
