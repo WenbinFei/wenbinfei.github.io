@@ -88,6 +88,7 @@ _n_**gg** | Goto line _n_
 <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>F2</kbd>|Clear all bookmarks
 
 ## Insert mode
+
 | Key | Description |
 | --- | --- |
 | **s** | delete character under cursor |
