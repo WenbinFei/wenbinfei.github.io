@@ -88,19 +88,19 @@ _n_**gg** | Goto line _n_
 <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>F2</kbd>|Clear all bookmarks
 
 ## Insert mode
-|Key | Description|
-|---|---|
-|**s**|delete character under cursor|
-|**i**|Insert infront cursor|
-|**a**|Append after cursor|
-|**I** | Insert infront of line (tip: _left_ shift indicates direction)|
-|**A** | Append after line end (tip: _right_ shift indicates direction)|
-|**o** | Open newline below|
-|**O** | Open newline above (tip: shift &#8679;)|
-|**c**|Change/cut (i.e. cw = deletes word)|
-|**caw**|Change/cut all word |
-|**cc**|Change/cut entire line|
-|**ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has to be within for parenthses)|
+| Key | Description |
+| --- | --- |
+| **s** | delete character under cursor |
+| **i** | Insert infront cursor |
+| **a** | Append after cursor |
+| **I** | Insert infront of line (tip: _left_ shift indicates direction) |
+| **A** | Append after line end (tip: _right_ shift indicates direction) |
+| **o** | Open newline below |
+| **O** | Open newline above (tip: shift &#8679;) |
+| **c** | Change/cut (i.e. cw = deletes word) |
+| **caw** | Change/cut all word |
+| **cc** | Change/cut entire line |
+| **ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has to be within for parenthses) |
 
 ## Selecting 
 Key | Description
