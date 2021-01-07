@@ -100,7 +100,7 @@ _n_**gg** | Goto line _n_
 |**c**|Change/cut (i.e. cw = deletes word)|
 |**caw**|Change/cut all word |
 |**cc**|Change/cut entire line|
-|**ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has |to be within for parenthses)|
+|**ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has to be within for parenthses)|
 
 ## Selecting 
 Key | Description
