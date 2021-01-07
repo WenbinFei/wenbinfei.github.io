@@ -166,6 +166,9 @@ _num_ **dd** | deletes _num_ lines
 **P** |paste before cursor
 **d** _num_ <kbd>Enter</kbd> | deletes _num_ lines from current position in line to current position <br> (not entire line)
 **y** _num_ **p** | copies line _num_ times
+"_register_ y | yank to register (use :reg to view register)
+"_register_ p | paste from register (use :reg to view register)
+"0 | default register. e.g. copy a line, delete(cut) a line, paste the copied line: yy pp "0p
 
 ## Format
 
