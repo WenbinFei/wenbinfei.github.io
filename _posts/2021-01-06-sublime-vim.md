@@ -81,7 +81,7 @@ _n_**gg** | Goto line _n_
 **m** _[a-z0-9]_|(book)mark current cursor position with register (any key _[a-z0-9]_)
 **'** _[a-z0-9]_ |Return to marked position _[a-z0-9]_ (first non-blank character in line)
 <kbd>Ctrl</kbd> + + **g**|Find All instances
-**`** _[a-z0-9]_ | jump to line *and* column of mark
+**\`** _[a-z0-9]_ | jump to line *and* column of mark
 <kbd>Ctrl</kbd>+<kbd>F2</kbd> | Toggle Bookmark (with indicator)
 <kbd>F2</kbd> | Jump to Next bookmark
 <kbd>Shift</kbd>+<kbd>F2</kbd> | Jump to Previous bookmark
@@ -97,11 +97,11 @@ _n_**gg** | Goto line _n_
 | **I** | Insert infront of line (tip: _left_ shift indicates direction) |
 | **A** | Append after line end (tip: _right_ shift indicates direction) |
 | **o** | Open newline below |
-| **O** | Open newline above (tip: shift &#8679;) |
+| **O** | Open newline above |
 | **c** | Change/cut (i.e. cw = deletes word) |
 | **caw** | Change/cut all word |
 | **cc** | Change/cut entire line |
-| **ci"** | Change inner quote content <br> (can be anywhere before for quotes, but has to be within for parenthses) |
+| **ci"** | Change inner quote content (can be anywhere before for quotes, but has to be within for parenthses) |
 
 ## Selecting 
 Key | Description
