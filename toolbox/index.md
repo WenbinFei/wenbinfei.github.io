@@ -53,7 +53,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 #### Editors
 - **[Markdown](markdown.md)**: A popular language with plain text formatting syntax and easy to be converted to html.
 
-- **[Sublime Text](sublime-text.md)**: A sophisticated text editor for code, markup and prose.
+- **[Sublime Text](../_posts/2021-01-06-sublime-vim.md)**: A sophisticated text editor for code, markup and prose. Vim is avaliable in Vintage mode.
 
 #### Data science toolbox
 - **[Seaborn & Matplotlib-Q & A](Seaborn-matplotlib.md)**: Python libraries to visualize your data.
