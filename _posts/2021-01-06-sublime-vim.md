@@ -16,7 +16,7 @@ Vintage mode in Sublime text provide the vim enviroment.
   * [Selecting](#selecting)
   * [Undo/Redo](#undo-redo)
   * [Finding](#finding)
-  * [Delete/Copy/Paste](#delete-copy-paste)
+  * [Delete/Copy/Paste](#delete/copy/paste)
   * [Format](#format)
 - [Sublime shortcuts](#sublime-shortcuts)
   * [General](#general)
