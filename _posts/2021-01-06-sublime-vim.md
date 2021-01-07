@@ -57,6 +57,7 @@ Custom escape key, in key binding
 ```
 # Vim cheat sheet
 ## Navigation
+
 Key|Description
 ---|---
 **h b B ^ 0** | h-previous character; b-pervious work; B-pervious work and skip punctuation; ^-first non-blank character; 0-begining of line;    
@@ -78,6 +79,7 @@ _n_**gg** | Goto line _n_
 <kbd>Shift</kbd> + **%**|Jump to open/close (), {}, or []
 
 ## Bookmark
+
 **m** _[a-z0-9]_|(book)mark current cursor position with register (any key _[a-z0-9]_)
 **'** _[a-z0-9]_ |Return to marked position _[a-z0-9]_ (first non-blank character in line)
 <kbd>Ctrl</kbd> + + **g**|Find All instances
@@ -104,6 +106,7 @@ _n_**gg** | Goto line _n_
 | **ci"** | Change inner quote content (can be anywhere before for quotes, but has to be within for parenthses) |
 
 ## Selecting 
+
 Key | Description
 ---|---
 **v**| switch into **visual** mode
@@ -115,6 +118,7 @@ Key | Description
 <kbd>Alt</kbd> + <kbd>F3</kbd>| select all under cursor
 
 ## Undo/Redo
+
 Key|Description
 ---|---
 **u**|undo
@@ -123,6 +127,7 @@ Key|Description
 **.** | repeat last action
 
 ## Finding
+
 Key | Description
 -------|--------
 **f**_x_|find _x_ and land **on** it (current line only)
@@ -140,6 +145,7 @@ _*_|set find all word & find next
 **%s/oldstring.newstring/gc  s for substitude**| 
 
 ## Delete/Copy/Paste
+
 Key | Description
 ---|---
 **d**|delete (cuts)
@@ -162,6 +168,7 @@ _num_ **dd** | deletes _num_ lines
 **y** _num_ **p** | copies line _num_ times
 
 ## Format
+
 Key | Description
 ---|---
 **==**| auto-indent current line
@@ -173,6 +180,7 @@ Key | Description
 
 # Sublime shortcuts
 ## General
+
 Key | Description
 ---|---
 <kbd>Ctrl</kbd> + **p** | Quick-open files by name
@@ -186,7 +194,9 @@ Key | Description
 <kbd>Ctrl</kbd> + **kv**| paste from history
 <kbd>Ctrl</kbd> + **kc**| scroll cursor to centre
 <kbd>Ctrl</kbd> + **kc**| scroll cursor to centre
+
 ## Split window
+
 Key | Description
 ---|---
 <kbd>Shift</kbd> + <kbd>Alt</kbd> + **2** | Split view into two windows (groups)
