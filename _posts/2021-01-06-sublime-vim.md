@@ -119,12 +119,12 @@ Key | Description
 
 ## Undo/Redo
 
-Key|Description
----|---
-**u**|undo
-<kbd>Shift</kbd> + **U**|undo all changes to current line
-<kbd>&#8984;</kbd>\|\|<kbd>Ctrl</kbd> + **r**|redo
-**.** | repeat last action
+|Key|Description|
+|---|---|
+|**u**|undo|
+|<kbd>Shift</kbd> + **U**|undo all changes to current line|
+|<kbd>Ctrl</kbd> + **r**|redo|
+|**.** | repeat last action|
 
 ## Finding
 
