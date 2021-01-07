@@ -4,7 +4,7 @@ title: "Sublime text is your vim editor"
 excerpt: "Vintage mode for vim; Sublime text shortcuts"
 modified: 2021-01-06
 tags: [blog]
-comments: false
+comments: true
 ---
 Vintage mode in Sublime text provide the vim enviroment.
 
