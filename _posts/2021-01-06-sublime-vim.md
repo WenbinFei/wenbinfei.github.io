@@ -16,7 +16,7 @@ Vintage mode in Sublime text provide the vim enviroment.
   * [Selecting](#selecting)
   * [Undo/Redo](#undo-redo)
   * [Finding](#finding)
-  * [Delete/Copy/Paste](#delete/copy/paste)
+  * [Delete/Copy/Paste](#delete-copy-paste)
   * [Format](#format)
 - [Sublime shortcuts](#sublime-shortcuts)
   * [General](#general)
@@ -117,7 +117,7 @@ Key | Description
 **V**_n_**j**| select current + down _n_ lines
 <kbd>Alt</kbd> + <kbd>F3</kbd>| select all under cursor
 
-## Undo/Redo
+## Undo Redo
 
 |Key|Description|
 |---|---|
@@ -144,7 +144,7 @@ _*_|set find all word & find next
 **%s/oldstring.newstring/g  s for substitude  s for substitude**| 
 **%s/oldstring.newstring/gc  s for substitude**| 
 
-## Delete/Copy/Paste
+## Delete Copy Paste
 
 Key | Description
 ---|---
