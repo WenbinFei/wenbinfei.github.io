@@ -12,7 +12,11 @@ image:
 ---
 
 ### Papers
+- **Wenbin Fei**, Guillermo A Narsilio, Joost H van der Linden, Antoinette Tordesillas, Mahdi M Disfani, J Carlos Santamarina. Impact of particle shape on networks in sands. Computers and Geotechnics 2021, 137, 104258. [PDF](pdf/10_Wenbin-Fei-particle-shape-network-features.pdf).
+- A Bidarmaghz, N Makasis, **W Fei**, GA Narsilio. An efficient and sustainable approach for cooling underground substations. Tunnelling and Underground Space Technology 2021, 113, 103986. [PDF](pdf/09_Wenbin-Fei-cooling-tunnel-workstation.pdf).
+- **W Fei**, G Narsilio, J van der Linden, M Disfani, X Miao, B Yang, T Afshar. X-ray computed tomography images and network data of sands under compression. Data in brief 2021, 6, 107122. [PDF](pdf/08_Wenbin-Fei-ottawa-sand-angular-sand-CT-network-data.pdf).
 - **Fei W**, Narsilio GA, Disfani MM. Predicting effective thermal conductivity in sand using an artificial neural network with multiscale microstructural parameters. International Journal of Heat and Mass Transfer 2021, 170:120997 [doi](https://doi.org/10.1016/j.ijheatmasstransfer.2021.120997) [PDF](pdf/06_Wenbin-Fei-ANN-heat-transfer.pdf).
+- **Fei W**, Narsilio GA, Disfani MM. Effect of Particle Connectivity on Heat Transfer in Granular Materials Using Complex Networks. International Conference of the International Association for Computer Methods and Advances in Geomechanics. 2021. [PDF](pdf/07_Wenbin-Fei-particle-connectivity-heat-transfer-conference.pdf).
 - **Fei W**, Narsilio GA. Impact of Three-Dimensional Sphericity and Roundness on Coordination Number. Journal of Geotechnical and Geoenvironmental Engineering 2020, 146:06020025, [doi](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002389) [PDF](pdf/05_Wenbin-Fei_particle-shape_coordination-number.pdf).
 - **Fei W**, Narsilio GA, van der Linden JH, Disfani MM. Network analysis of heat transfer in sphere packings. Powder Technology 2020, 362:790-804, [doi](https://doi.org/10.1016/j.powtec.2019.11.123) [PDF](pdf/03_Wenbin-Fei_networks-heat-transfer-sphere.pdf).
 - **Fei W**, Narsilio GA. Network analysis of heat transfer in sands. Computers and Geotechnics 2020, 127:103773, [doi](:https://doi.org/10.1016/j.compgeo.2020.103773) [PDF](pdf/04_Wenbin-Fei_sands_network.pdf).
