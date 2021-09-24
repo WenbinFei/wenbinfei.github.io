@@ -50,7 +50,7 @@ The entire thermo-hydro-mechanic-chemical (THMC) coupled processes for multiphas
 #### Overview
 
 <body>
-    <img src="../images/Toolbox.jpg"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" /><br>
+    <img src="../images/Toolbox.png"  width="1889px" height="1234px" alt="Web Logos" usemap="#Toolbox" /><br>
 </body>
 
 <map name="Toolbox">
