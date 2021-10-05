@@ -38,6 +38,7 @@ The manuscript of journal paper usually has a page width of 16 cm. As the final 
   * [Seaborn](#seaborn)
   * [matplotlib](#matplotlib)
 - [Marker](#marker)
+  * [Plot markers on top of lines](#Plot-markers-on-top-of-lines)
 - [Line styles](#line-styles)
 
 ## Set font size and figure style
@@ -210,6 +211,17 @@ Explore cmap by [clicking here](https://matplotlib.org/examples/color/colormaps_
 
 ## Marker
 Explore marker by [clicking here](https://matplotlib.org/3.1.1/api/markers_api.html)
+
+### Plot markers on top of lines
+using zorder
+```
+import matplotlib.pyplot as plt
+x = [1,2,3,4,5,6,7,8,9]
+y = [1,2,3,4,5,6,7,8,9]
+plt.plot([0,10],[0,10],zorder=1)
+plt.scatter(x,y,s=300,color='red',zorder=2)
+
+```
 
 ## Line styles
 
