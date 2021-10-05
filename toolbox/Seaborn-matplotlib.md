@@ -38,6 +38,7 @@ The manuscript of journal paper usually has a page width of 16 cm. As the final 
   * [Seaborn](#seaborn)
   * [matplotlib](#matplotlib)
 - [Marker](#marker)
+
   * [Plot markers on top of lines](#Plot-markers-on-top-of-lines)
 - [Line styles](#line-styles)
 
@@ -118,6 +119,12 @@ or
 `ax.set_yticks(list(np.arange(0.4,0.81,0.2)))`
 or  
 `plt.locator_params(axis='y', nbins=4)`
+or
+```
+import matplotlib.ticker as plticker
+loc = plticker.MultipleLocator(base=0.10) # this locator puts ticks at regular intervals
+ax.yaxis.set_major_locator(loc)
+```
 
 ### Change tick label size and direction 
 ``plt.xticks(fontsize=12, rotation=0)``
