@@ -24,9 +24,9 @@ Wenbin discovers the mechanism of Thermal–Hydraulic–Mechanical–Chemical (T
 
 The outputs of his research can be implemented for engineering applications such as:
 
-- In geothermal engineering, for material selection of high-quality grout which needs to be optimised for high thermal conductivity, high mechanical capacity and low hydraulic conductivity. 
+- In geothermal engineering, high-quality grout needs to be optimised for high thermal conductivity, high mechanical capacity and low hydraulic conductivity. 
 - Energy structure (i.e. energy tunnel and energy piles). New structures are economically viable and environmentally sustainable  with thermal functionality.
-- In nuclear waste disposal engineering, for designing of engineered barrier which needs low hydraulic permeability and a self-sealing (deformation) ability.
+- In nuclear waste disposal engineering, an engineered barrier needs low hydraulic permeability and a self-sealing (deformation) ability.
 - Predicting the macro-scale behaviour of methane hydrate-bearing soils, which are sensitive to thermal, hydraulic, mechanical and chemical conditions.
 
 #### Teaching
