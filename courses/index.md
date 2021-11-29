@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Courses
 modified: 
-excerpt: "List of publications."
+excerpt: "List of Courses."
 comments: false
 share: false
 image:
