@@ -20,5 +20,5 @@ image:
 **Hands-on tutorial #3**  
 	Watershed segmentation, particle extraction &analysis: calculate particle size and shape  
 
-*The lecture slides are avaliable [by cliking here](Wenbin-Fei_CT-image-processing-course.pdf)*.
+*The lecture slides are avaliable **[by cliking here](Wenbin-Fei_CT-image-processing-course.pdf)***.
 
