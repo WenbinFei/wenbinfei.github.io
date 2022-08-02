@@ -12,6 +12,7 @@ image:
 ---
 
 ### Papers
+- **Fei, W.**, Ma, Q., Soga, K., & Narsilio, G. A. (2022) A graph-theory based directed network feature for thermal anisotropy. International Journal of Heat and Mass Transfer 194:122987 (IF: 5.584; Journal Ranking:1/125 in Fluid Flow and Transfer Processes in 2015, 2/139 in 2016-2020). [PDF](pdf/11_Wenbin-Fei-graph-theory-anisotropy.pdf)  
 - **Wenbin Fei**, Guillermo A Narsilio, Joost H van der Linden, Antoinette Tordesillas, Mahdi M Disfani, J Carlos Santamarina. Impact of particle shape on networks in sands. Computers and Geotechnics 2021, 137, 104258. [PDF](pdf/10_Wenbin-Fei-particle-shape-network-features.pdf).
 - A Bidarmaghz, N Makasis, **W Fei**, GA Narsilio. An efficient and sustainable approach for cooling underground substations. Tunnelling and Underground Space Technology 2021, 113, 103986. [PDF](pdf/09_Wenbin-Fei-cooling-tunnel-workstation.pdf).
 - **W Fei**, G Narsilio, J van der Linden, M Disfani, X Miao, B Yang, T Afshar. X-ray computed tomography images and network data of sands under compression. Data in brief 2021, 6, 107122. [PDF](pdf/08_Wenbin-Fei-ottawa-sand-angular-sand-CT-network-data.pdf).
