@@ -10,6 +10,14 @@ image:
   credit: 
   creditlink: 
 ---
+**[A new energy screw pile with thermal battery core](10-energy-screw-pile.md)**  
+An energy screw pile filled enhanced buy phase change materials to solve the challenges of thermal interference and soil temperature accumulation in existing energy piles.
+<body>
+	<p align="left"> 
+	    <img src="/images/energy-screw-pile_brief.jpg"  width='100%'/><br>	    
+	</p>
+</body>
+
 **[Network analysis of heat transfer in granular materials](8-network-analysis.md)**  
 Quantify microstructure using complex network theory (graph theory). Construct both contact and thermal networks and use their features to predict thermal conductivity of sphere packings and natural sands.
 <body>
